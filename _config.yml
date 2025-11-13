@@ -1,0 +1,193 @@
+title: CIX 2026
+preposition: at
+description: >-
+  10th Summer School on Computational Interaction
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cix2026.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+dates: "June xx-xx, 2026"
+
+theme: jekyll-theme-conference
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - vendor
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: false
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference:
+  lang: en
+
+  # Timezone
+  tz: "+00:00"
+
+  # Show theme errors (set to False for production)
+  show_errors: True
+
+  navigation:
+    logo:
+      name: University of Glasgow, School of Computing Science
+      img: 'logo_25.jpg'
+      url: 'https://gla.ac.uk'
+    breakpoint: md
+    links:
+      - name: Program
+        relative_url: /program/
+      # - name: Talks
+      #   relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+      - name: Registration
+        absolute_url: https://www.eventbrite.com
+        disabled: false
+      - name: Sponsors
+        relative_url: /sponsors/
+      - name: About/Contact
+        relative_url: /about/
+      - name: Previous Editions
+        menu:
+          - name: CIX2025
+            url: https://cixschool2025.isir.upmc.fr/
+          - name: CIX2024
+            url: https://cixschool2024.uni.lu/
+          - name: ...
+            disabled: true
+            url: https://cixschool2024.uni.lu/
+
+  # TODO: Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    logo:
+      img: 'banner.jpg'
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: How to get here
+        relative_url: /location/
+      - name: Registration (coming soon)
+        disabled: true
+        absolute_url: ''
+        icon: clipboard-user
+
+  # Information boxes
+  info_bars:
+    - title: Some important information
+      color: warning
+      main_only: true
+      text: |
+        Attendees should be aware of the upcoming deadline for registrations on xx/yy/zz
+        
+        ---
+
+        Please click [here](https://eventbrite.com) to register.
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop: 240 # in minutes
+    streaming:
+      enable: true
+      pause: 60 # in minutes
+      prepend: 5 # in minutes
+      extend: 5 # in minutes
+    demo:
+      enable: false
+      duration: 300 # in seconds
+      pause: 10 # in seconds
+
+  talks:
+    # Talk tracks
+    tracks:
+      - name: Track A
+        color: info
+      - name: Track B
+        color: success
+
+    # Talk tags
+    tags:
+      - name: No recording
+        icon: video-slash
+
+    # Hide icons on talk overview page
+    hide_link_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 55.8732,-4.2917
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
+
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 30 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
