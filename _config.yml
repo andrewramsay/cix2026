@@ -116,16 +116,16 @@ conference:
         icon: clipboard-user
 
   # Information boxes
-  info_bars:
-    - title: Some important information
-      color: warning
-      main_only: true
-      text: |
-        Attendees should be aware of the upcoming deadline for registrations on xx/yy/zz
-        
-        ---
-
-        Please click [here](https://eventbrite.com) to register.
+  # info_bars:
+  #   - title: Some important information
+  #     color: warning
+  #     main_only: true
+  #     text: |
+  #       Attendees should be aware of the upcoming deadline for registrations on xx/yy/zz
+  #
+  #       ---
+  #
+  #       Please click [here](https://eventbrite.com) to register.
 
   # Live indications
   live:
