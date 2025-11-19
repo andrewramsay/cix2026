@@ -4,7 +4,7 @@ description: >-
   10th Summer School on Computational Interaction
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cix2026.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-dates: "June xx-xx, 2026"
+dates: "June 15th-20th, 2026"
 
 theme: jekyll-theme-conference
 
