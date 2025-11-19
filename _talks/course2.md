@@ -4,4 +4,3 @@ speakers:
   - TBA
 track: Track B
 ---
-Field building
