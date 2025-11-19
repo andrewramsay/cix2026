@@ -1,11 +1,11 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Course 1
 speakers:
   - Tolga Philip
   - Alex Rosales
 track: Track A
 tags:
-  - Talk
+  - Course 1
   - No recording
 hide: true
 ---
