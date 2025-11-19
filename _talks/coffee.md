@@ -2,7 +2,7 @@
 name: Coffee
 speakers:
   - none
-track: Track A
+track: Track All
 hide: true
 ---
 Coffee break
