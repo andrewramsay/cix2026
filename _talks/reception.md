@@ -2,6 +2,6 @@
 name: Reception
 speakers:
   - none
-track: Track A
+track: Track All
 ---
 Reception
