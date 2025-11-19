@@ -7,7 +7,6 @@ links:
     absolute_url: https://environment.leeds.ac.uk/transport/staff/957/professor-gustav-markkula
 ---
 
-Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
+Professor Markkula is an engineer by training, and applies quantitative methods and models to the study of human behaviour and cognition in road traffic. He has spent more than a decade in the automotive industry (Volvo), as a systems engineer, project manager, and technical specialist, working on research and development projects relating to driving safety, driver distraction, human-machine interfaces, and driver behaviour in general
 
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri.
 
