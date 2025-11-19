@@ -1,10 +1,10 @@
 ---
-name: Eu Nisl Nunc Mi Ipsum Faucibus
+name: Keynote 2 talk
 speakers:
   - The Anonymous
-track: Track B
+track: Track A
 tags:
-  - Talk
+  - Keynote 2
 ---
 
 Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
