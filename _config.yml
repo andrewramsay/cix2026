@@ -89,7 +89,10 @@ conference:
             url: https://cixschool2025.isir.upmc.fr/
           - name: CIX2024
             url: https://cixschool2024.uni.lu/
-          - name: ...
+          - name: CIX2023
+            url: https://cixschool2023.engin.umich.edu/
+          - name: CIX2022
+            url: https://cixschool2022.cs.uni-saarland.de/
             disabled: true
             url: https://cixschool2024.uni.lu/
 
