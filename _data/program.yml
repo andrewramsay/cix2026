@@ -152,3 +152,60 @@ days:
       - name: Coffee
         time_start: '16:00'
         time_end: '16:30'
+
+- name: Friday
+  abbr: Fr
+  date: 2026-06-19
+  rooms: 
+  - name: SAWB 422/423
+    talks:
+      - name: Coffee
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: Keynote 4
+        time_start: '09:30'
+        time_end: '10:30'
+      - name: Coffee
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Workshop B
+        time_start: '11:00'
+        time_end: '12:00'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:00'
+      - name: Workshop C
+        time_start: '14:00'
+        time_end: '16:00'
+      - name: Coffee
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: Closing
+        time_start: '16:30'
+        time_end: '18:00'
+        
+  - name: SAWB 423
+    talks
+      - name: Coffee
+        time_start: '09:00'
+        time_end: '09:30'
+
+      - name: Coffee
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Course 5
+        time_start: '11:00'
+        time_end: '13:00'
+      - name: Course 5
+        time_start: '14:00'
+        time_end: '14:30'
+
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:00'
+      - name: Proposal pitch drafting
+        time_start: '14:30'
+        time_end: '18:00'
+      - name: Coffee
+        time_start: '16:00'
+        time_end: '16:30'
