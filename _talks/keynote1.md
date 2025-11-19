@@ -2,7 +2,7 @@
 name: Keynote 1
 speakers:
   - TBA
-track: Track A
+track: Track All
 tags:
   - keynote
 ---
