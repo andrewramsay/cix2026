@@ -2,7 +2,7 @@
 name: Posters
 speakers:
   - none
-track: Track A
+track: Track All
 tags:
   - posters
 ---
