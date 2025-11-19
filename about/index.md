@@ -9,8 +9,8 @@ Because of this success, we are expanding from the pure Summer School format to 
 There will also be two workshops. 
 
 *Computational interaction* often involves elements from machine learning, signal processing, information theory, optimisation, inference, control theory and formal modelling. Computational interaction would typically involve at least one of:
-I. an explicit mathematical model of user-system behaviour;
-II. a way of updating that model with observed data from users;
-III. an algorithmic element that, using this model, can directly synthesise or adapt the design;
-IV. a way of automating and instrumenting the modelling and design process;
-V. the ability to simulate or synthesise elements of the expected user-system behaviour.”
+* I. an explicit mathematical model of user-system behaviour;
+* II. a way of updating that model with observed data from users;
+* III. an algorithmic element that, using this model, can directly synthesise or adapt the design;
+* IV. a way of automating and instrumenting the modelling and design process;
+* V. the ability to simulate or synthesise elements of the expected user-system behaviour.”
