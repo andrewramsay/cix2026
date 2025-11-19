@@ -2,7 +2,7 @@
 name: Welcome
 speakers:
   - TBA TBA
-track: Track A
+track: Track All
 tags:
   - welcome
 ---
