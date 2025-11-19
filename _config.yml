@@ -145,10 +145,12 @@ conference:
   talks:
     # Talk tracks
     tracks:
-      - name: Track A
+      - name: Track All
         color: info
-      - name: Track B
+      - name: Track A
         color: success
+      - name: Track B
+        color: orange
 
     # Talk tags
     tags:
