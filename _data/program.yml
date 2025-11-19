@@ -125,7 +125,7 @@ days:
         time_end: '18:00'
         
   - name: SAWB 423
-    talks
+    talks:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
@@ -185,7 +185,7 @@ days:
         time_end: '18:00'
         
   - name: SAWB 423
-    talks
+    talks:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
