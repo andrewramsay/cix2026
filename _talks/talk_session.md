@@ -2,6 +2,6 @@
 name: Talk Session
 speakers:
   - TBA TBA
-track: Track A
+track: Track All
 ---
 Talk session
