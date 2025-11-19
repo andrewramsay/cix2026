@@ -2,7 +2,7 @@
 name: Lunch
 speakers:
   - none
-track: Track A
+track: Track All
 hide: true
 ---
 Lunch
