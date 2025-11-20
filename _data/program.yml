@@ -211,7 +211,7 @@ days:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
-        - name: Doctoral Consortium
+      - name: Doctoral Consortium
         time_start: '09:30'
         time_end: '10:00'
       - name: Coffee
