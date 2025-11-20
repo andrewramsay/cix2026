@@ -1,1 +1,6 @@
 ---
+name: Doctoral Consortium
+speakers:
+  - TBA
+track: Track B
+---
