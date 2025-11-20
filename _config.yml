@@ -88,27 +88,27 @@ conference:
       - name: Previous Editions
         menu:
           - name: 2025
-            url: https://cixschool2025.isir.upmc.fr/
+            absolute_url: https://cixschool2025.isir.upmc.fr/
           - name: 2024
-            url: https://cixschool2024.uni.lu/
+            absolute_url: https://cixschool2024.uni.lu/
           - name: 2023
-            url: https://cixschool2023.engin.umich.edu/
+            absolute_url: https://cixschool2023.engin.umich.edu/
           - name: 2022
-            url: https://cixschool2022.cs.uni-saarland.de/
+            absolute_url: https://cixschool2022.cs.uni-saarland.de/
           - name: 2019
             # link is dead
-            url: https://computationalhci2019.com/
+            absolute_url: https://computationalhci2019.com/
             disabled: true
           - name: 2018
-            url: https://www.dcs.gla.ac.uk/~jhw/computationalinteraction/chi2018/
+            absolute_url: https://www.dcs.gla.ac.uk/~jhw/computationalinteraction/chi2018/
           - name: 2017
             # link is dead
-            url: http://summer17.computationalinteraction.org/
+            absolute_url: http://summer17.computationalinteraction.org/
             disabled: true
           - name: 2016
-            url: https://userinterfaces.aalto.fi/computationalinteraction/
+            absolute_url: https://userinterfaces.aalto.fi/computationalinteraction/
           - name: 2015
-            url: https://www.dcs.gla.ac.uk/~jhw/computational_interaction/
+            absolute_url: https://www.dcs.gla.ac.uk/~jhw/computational_interaction/
 
   # TODO: Link Preview for Sharing
   link_preview:
