@@ -1,0 +1,6 @@
+---
+name: Proposal Pitches
+speakers:
+  - TBA
+track: Track B
+---
