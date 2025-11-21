@@ -3,6 +3,10 @@ name: GustavMarkkula
 first_name: Gustav
 last_name:  Markkula
 img: Gustav.jpg
+# "title" = page title so using prefix instead
+prefix: Professor
+position: Chair of Applied Behaviour Modelling
+institution: Institute for Transport Studies, University of Leeds, UK
 links:
   - name: Web-page
     absolute_url: https://environment.leeds.ac.uk/transport/staff/957/professor-gustav-markkula

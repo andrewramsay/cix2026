@@ -2,6 +2,11 @@
 name: POKristensson
 first_name: Per Ola
 last_name: Kristensson
+img: 
+# "title" = page title so using prefix instead
+prefix: Professor
+position: Professor of Interactive Systems Engineering
+institution: Department of Engineering (University of Cambridge), Fellow of Trinity College, Cambridge
 links:
   - name: Web-page
     absolute_url: https://pokristensson.com/
