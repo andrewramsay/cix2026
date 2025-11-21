@@ -83,34 +83,38 @@ conference:
       - name: Registration
         absolute_url: https://www.eventbrite.com
         disabled: false
-      - name: Sponsors
-        relative_url: /sponsors/
-      - name: About/Contact
-        relative_url: /about/
-      - name: Previous Editions
+      - name: About
         menu:
-          - name: 2025
-            absolute_url: https://cixschool2025.isir.upmc.fr/
-          - name: 2024
-            absolute_url: https://cixschool2024.uni.lu/
-          - name: 2023
-            absolute_url: https://cixschool2023.engin.umich.edu/
-          - name: 2022
-            absolute_url: https://cixschool2022.cs.uni-saarland.de/
-          - name: 2019
-            # link is dead
-            absolute_url: https://computationalhci2019.com/
-            disabled: true
-          - name: 2018
-            absolute_url: https://www.dcs.gla.ac.uk/~jhw/computationalinteraction/chi2018/
-          - name: 2017
-            # link is dead
-            absolute_url: http://summer17.computationalinteraction.org/
-            disabled: true
-          - name: 2016
-            absolute_url: https://userinterfaces.aalto.fi/computationalinteraction/
-          - name: 2015
-            absolute_url: https://www.dcs.gla.ac.uk/~jhw/computational_interaction/
+          - name: About the event
+            relative_url: /about/
+          - name: Sponsors
+            relative_url: /sponsors/
+          - name: Contact
+            relative_url: /contact/
+          - name: Previous Editions
+            menu:
+              - name: 2025
+                absolute_url: https://cixschool2025.isir.upmc.fr/
+              - name: 2024
+                absolute_url: https://cixschool2024.uni.lu/
+              - name: 2023
+                absolute_url: https://cixschool2023.engin.umich.edu/
+              - name: 2022
+                absolute_url: https://cixschool2022.cs.uni-saarland.de/
+              - name: 2019
+                # link is dead
+                absolute_url: https://computationalhci2019.com/
+                disabled: true
+              - name: 2018
+                absolute_url: https://www.dcs.gla.ac.uk/~jhw/computationalinteraction/chi2018/
+              - name: 2017
+                # link is dead
+                absolute_url: http://summer17.computationalinteraction.org/
+                disabled: true
+              - name: 2016
+                absolute_url: https://userinterfaces.aalto.fi/computationalinteraction/
+              - name: 2015
+                absolute_url: https://www.dcs.gla.ac.uk/~jhw/computational_interaction/
 
   # TODO: Link Preview for Sharing
   link_preview:
