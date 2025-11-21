@@ -70,6 +70,8 @@ conference:
     links:
       - name: Program
         relative_url: /program/
+      - name: Call for participation
+        relative_url: /cfp/
       # - name: Talks
       #   relative_url: /talks/
       - name: Speakers
