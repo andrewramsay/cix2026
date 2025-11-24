@@ -2,7 +2,7 @@
 name: PhilippWintersberger
 first_name: Philipp
 last_name: Wintersberger
-img: 
+img: philipp-wintersberger.jpeg
 # "title" = page title so using prefix instead
 prefix: Professor
 position: Professor of Intelligent User Interfaces
