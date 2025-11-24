@@ -4,7 +4,7 @@ first_name: AnttiOulasvirta
 img: Antti.jpg
 # "title" = page title so using prefix instead
 prefix: Professor
-position: 
+position: Professor
 institution: Aalto University, Finland
 links:
   - name: Web-page
