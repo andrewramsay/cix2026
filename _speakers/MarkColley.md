@@ -2,7 +2,7 @@
 name: MarkColley
 first_name: Mark
 last_name:  Colley
-img: Gustav.jpg
+img: MarkColley.jpg
 # "title" = page title so using prefix instead
 prefix: Dr
 position: Lecturer
