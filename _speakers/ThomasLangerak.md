@@ -9,7 +9,7 @@ position: Postdoctoral researcher
 institution: Aalto University, Finland
 links:
   - name: Web-page
-   absolute_url: https://thomaslangerak.nl/
+    absolute_url: https://thomaslangerak.nl/
 ---    
 Dr Thomas Langerak is a postdoctoral researcher at Aalto University, working in the Computational Behavior Lab with Prof. Dr. Antti Oulasvirta. He earned his Ph.D. in Computer Science from ETH Zürich, advised by Prof. Dr. Otmar Hilliges and Prof. Dr. Christian Holz in the AIT Lab. His work integrates models of human behavior into intelligent control strategies for user interfaces, haptics, and adaptive systems.
 
