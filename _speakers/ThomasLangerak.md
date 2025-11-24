@@ -1,7 +1,7 @@
 ---
 name: ThomasLangerak
 first_name: Thomas
-family_name: Langerak
+last_name: Langerak
 img: Thomas.jpg
 # "title" = page title so using prefix instead
 prefix: Dr.
