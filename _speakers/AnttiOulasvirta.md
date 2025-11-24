@@ -1,6 +1,7 @@
 ---
 name: AnttiOulasvirta
-first_name: AnttiOulasvirta
+first_name: Antti
+last_name: Oulasvirta
 img: Antti.jpg
 # "title" = page title so using prefix instead
 prefix: Professor
