@@ -4,7 +4,7 @@ title: Call for participation
 permalink: /cfp/
 ---
 
-**Call for workshops**
+**Call for Workshops**
 *Deadline 31st January 2026.*
 
 We are interested in proposals for workshops. A CIX Workshop is a working session where people come together to share ideas, solve problems, and learn from each other about a focused topic in the general area of computational human-computer interaction.
@@ -29,14 +29,18 @@ Provide a 250-word title and abstract that will be posted on CIX 2026 site to ad
 
 Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
 
-**Call for papers**
+**Call for Talks**
 *Deadline 28th February 2026*
 
 We will have two main `open' presentation options:
 - Long and short talk presentations (20 and 10 minutes).
 - Opinion talks (5 minutes) as part of the `Field Building' session  on Wednesday morning. 
-  
-If you would like to present a talk during the Symposium, please send us a title and abstract by the 1st March 2026. If you already have a pre-print on the topic, please share the link as well.
+
+*Talks*
+If you would like to present a talk during the Symposium, please send us a title and abstract by the 1st March 2026. If you already have a pre-print on the topic, please share the link as well. There will be no published paper associated with the Symposium, so this is primarily an opportunity to share the ideas with your peers.
+
+*Opinion Talks*
+The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. 
 
 Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk).
 
