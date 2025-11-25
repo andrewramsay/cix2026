@@ -2,6 +2,6 @@
 name: Reception
 speakers:
   - none
-track: Track All
+track: Track Social
 ---
 Reception
