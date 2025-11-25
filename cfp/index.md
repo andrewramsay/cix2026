@@ -29,12 +29,13 @@ Provide a 250-word title and abstract that will be posted on CIX 2026 site to ad
 
 Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
 
-**Call for Talks**
+**Call for Talks and Posters**
 *Deadline 28th February 2026*
 
-We will have two main `open' presentation options:
+We will have three main `open' presentation options:
 - Long and short talk presentations (20 and 10 minutes).
-- Opinion talks (5 minutes) as part of the `Field Building' session  on Wednesday morning. 
+- Opinion talks (5 minutes) as part of the `Field Building' session  on Wednesday morning.
+- Posters.
 
 *Talks*
 
@@ -42,7 +43,10 @@ If you would like to present a talk during the Symposium, please send us a title
 
 *Opinion Talks*
 
-The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. 
+The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address.
+
+*Posters*
+Send a poster (they should be in portrait format). We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know eachother.
 
 Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk). 
 
