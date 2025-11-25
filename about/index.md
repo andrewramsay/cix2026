@@ -20,6 +20,6 @@ There will also be two workshops.
 - 1^st February: Registration opens
 - 9^th February: Workshop results notification
 - 28^th February 2026: Call for Talks deadline
-- 9th March 2026: Talks results notification.
+- 9^th March 2026: Talks results notification.
 - 21^st March 2026: Registration closes for students. Early-bird registration closes for academics.
 - 16^th - 20^th June 2026: Symposium and Summer School takes place.
