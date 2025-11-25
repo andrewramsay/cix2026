@@ -62,6 +62,9 @@ days:
       - name: Workshop A
         time_start: '16:30'
         time_end: '18:00'
+      - name: Away Event
+        time_start: '18:00'
+        time_end: '21:30'
         
   - name: SAWB 423
     talks:
