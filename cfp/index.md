@@ -37,12 +37,12 @@ We will have two main `open' presentation options:
 - Opinion talks (5 minutes) as part of the `Field Building' session  on Wednesday morning. 
 
 *Talks*
-If you would like to present a talk during the Symposium, please send us a title and abstract by the 28th February 2026. If you already have a pre-print on the topic, please share the link as well. There will be no published paper associated with the Symposium, so this is primarily an opportunity to share the ideas with your peers.
+
+If you would like to present a talk during the Symposium, please send us a title and abstract by the 28th February 2026. If you already have a pre-print or publication on the topic, please share the link to the paper as well. There will be no published paper associated with the Symposium, so this is primarily an opportunity to share the ideas with your peers. Please state whether you think the paper would ideally be presented as a *long* (20 minutes) or *short* (10 minutes) talk.
 
 *Opinion Talks*
+
 The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. 
 
-Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk).
-
-If there are any preprints related to the talk, please add links to your proposal. 
+Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk). 
 
