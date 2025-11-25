@@ -19,12 +19,12 @@ What will you do in the workshop? (e.g., talks, hands-on demos)
 What happens next? Will there be a report or follow-up?
 1. Call for Participation (250 words): 
 Provide a 250-word title and abstract that will be posted on CIX 2026 site to advertise your workshop to the CIX community. This should appear at the end of your workshop proposal and should include the following:
--Your format and goals
--Who should join and what they need to submit
--How to submit
--Publishing plans
--That at least one organizer per accepted workshop must attend
--Workshop website
+- Your format and goals
+- Who should join and what they need to submit
+- How to submit
+- Publishing plans
+- That at least one organizer per accepted workshop must attend
+- Workshop website
 
 Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
 
