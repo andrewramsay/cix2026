@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to the 10th Summer School on Computational Interaction. This year we are expanding from a Summer School format to also include a 4 day long academic Symposium. We anticipate about 30 students and 40 academics and invited speakers to attend. There will also be two workshops.
+Welcome to the Symposium and Summer School on Computational Interaction! This year we are expanding from a Summer School format to also include a 4 day long academic Symposium. We anticipate about 30 students and 40 academics and invited speakers to attend. There will also be two workshops.
 
 *Computational interaction* often involves elements from machine learning, signal processing, information theory, optimisation, inference, control theory and formal modelling. Computational interaction would typically involve at least one of:
 
