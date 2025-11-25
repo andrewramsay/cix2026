@@ -37,7 +37,7 @@ We will have two main `open' presentation options:
 - Opinion talks (5 minutes) as part of the `Field Building' session  on Wednesday morning. 
 
 *Talks*
-If you would like to present a talk during the Symposium, please send us a title and abstract by the 1st March 2026. If you already have a pre-print on the topic, please share the link as well. There will be no published paper associated with the Symposium, so this is primarily an opportunity to share the ideas with your peers.
+If you would like to present a talk during the Symposium, please send us a title and abstract by the 28th February 2026. If you already have a pre-print on the topic, please share the link as well. There will be no published paper associated with the Symposium, so this is primarily an opportunity to share the ideas with your peers.
 
 *Opinion Talks*
 The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. 
