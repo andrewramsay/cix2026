@@ -11,20 +11,20 @@ We are interested in proposals for workshops. A CIX Workshop is a working sessio
 
 Please send us a one page description to [cix2026+workshops@glasgow.ac.uk](mailto:cix2026+workshops@glasgow.ac.uk). 
 1. Why this workshop? 
-Explain the topic, what’s important about it, and your goals.
+Explain the topic, what's important about it, and your goals.
 1. Who’s organizing? 
-List names, roles, and why you’re the right team.
+List names, roles, and why you're the right team.
 1. Activities: 
 What will you do in the workshop? (e.g., talks, hands-on demos)
 1. After the workshop: 
-What happens next? Will there be a report or follow-up?
+What happens next? Will there be a report or follow-up? A journal special issue? A grant proposal?
 1. Call for Participation (250 words): 
 Provide a 250-word title and abstract that will be posted on CIX 2026 site to advertise your workshop to the CIX community. This should appear at the end of your workshop proposal and should include the following:
 - Your format and goals
 - Who should join and what they need to submit
-- How to submit
+- How and when to submit
 - Publishing plans
-- That at least one organizer per accepted workshop must attend
+- That at least one organizer per accepted workshop must register by the early-bird deadline, and attend.
 - Workshop website
 
 Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
