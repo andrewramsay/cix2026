@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 This will be the 10th Summer School on Computational Interaction. This is a series which we started in Glasgow in 2015, and which has been run successfully at a range of venues.
+
 Because of this success, we are expanding from the pure Summer School format to also include a 4 day long academic Symposium. We anticipate about 30 students and 40 academics and invited speakers to attend. 
 There will also be two workshops. 
 
@@ -23,3 +24,17 @@ There will also be two workshops.
 - 9th March 2026: Talks results notification.
 - 21st March 2026: Registration closes for students. Early-bird registration closes for academics.
 - 16-20th June 2026: Symposium and Summer School takes place.
+
+---
+
+### Past editions of the Summer School on Computational Interaction
+
+ * [2025, Paris](https://cixschool2025.isir.upmc.fr/)
+ * [2024, Luxemburg](https://cixschool2024.uni.lu/)
+ * [2023, Michigan](https://cixschool2023.engin.umich.edu/)
+ * [2022, Saarland](https://cixschool2022.cs.uni-saarland.de/)
+ * [2019, Columbia](https://computationalhci2019.com/)
+ * [2018, Cambridge](https://www.dcs.gla.ac.uk/~jhw/computationalinteraction/chi2018/)
+ * [2017, ETH Zurich](http://summer17.computationalinteraction.org/)
+ * [2016, Aalto](https://userinterfaces.aalto.fi/computationalinteraction/)
+ * [2015, Glasgow](https://www.dcs.gla.ac.uk/~jhw/computational_interaction/)
