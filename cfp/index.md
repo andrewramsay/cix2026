@@ -11,9 +11,9 @@ We are interested in proposals for workshops. A CIX Workshop is a working sessio
 
 Please send us a one page description to [cix2026+workshops@glasgow.ac.uk](mailto:cix2026+workshops@glasgow.ac.uk). 
 1. Why this workshop? 
-Explain the topic, what's important about it, and your goals.
+Explain the topic, what's important about it, and your goals. Workshops will be attended by all Computational Interaction Symposium regular attendees. Explain why this topic will be of broad relevance.
 1. Who’s organizing? 
-List names, roles, and why you're the right team.
+List names, roles, and why you are the right team.
 1. Activities: 
 What will you do in the workshop? (e.g., talks, hands-on demos)
 1. After the workshop: 
@@ -21,11 +21,10 @@ What happens next? Will there be a report or follow-up? A journal special issue?
 1. Call for Participation (250 words): 
 Provide a 250-word title and abstract that will be posted on CIX 2026 site to advertise your workshop to the CIX community. This should appear at the end of your workshop proposal and should include the following:
 - Your format and goals
-- Who should join and what they need to submit
-- How and when to submit
-- Publishing plans
+- If you are calling for contributions, who should contribute and what they need to submit, including how and when to submit
+- Publishing plans (do you want to create a special issue of a journal?)
 - That at least one organizer per accepted workshop must register by the early-bird deadline, and attend.
-- Workshop website
+- Workshop website, if appropriate.
 
 Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
 
@@ -46,7 +45,7 @@ If you would like to present a talk during the Symposium, please send us a title
 The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. Give a Title and abstract of the point you would like to communicate. We anticipate that it should take no more than 5 minutes to make the point, and then the participants can discuss it for 5-20 minutes. 
 
 *Posters*
-Send a poster (they should be in portrait format). We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know eachother. Posters should be sent in pdf format. 
+We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know each other, so all participants are welcome to present a poster. Please provide the poster title when registering, if you wish to present one, so that we can plan sufficient space.
 
 Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk). 
 
