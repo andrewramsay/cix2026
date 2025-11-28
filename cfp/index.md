@@ -45,7 +45,7 @@ If you would like to present a talk during the Symposium, please send us a title
 The Field Building session on Wednesday the 17th June will be a chance for us to take stock of developments in the field of *Computational Interaction* and raise questions and topics that you think the field needs to address. Give a Title and abstract of the point you would like to communicate. We anticipate that it should take no more than 5 minutes to make the point, and then the participants can discuss it for 5-20 minutes. 
 
 *Posters*
-We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know each other, so all participants are welcome to present a poster. Please provide the poster title when registering, if you wish to present one, so that we can plan sufficient space.
+We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know each other, so all participants are welcome to present a poster. Please provide the poster title when registering, if you wish to present one, so that we can plan sufficient space. If you need a formal acceptance letter for travel funding purposes, please let us know, and we can generate one for you.
 
 Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk). 
 
