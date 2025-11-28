@@ -17,7 +17,7 @@
       <div class="d-flex align-items-center py-3">
         <div class="flex-shrink-0">
             <a href="{{ speaker.url | prepend: site.baseurl }}">
-                <img src="{{ site.baseurl }}/assets/images/{% if speaker.img %}{{ speaker.img }}{% else %}speaker_placeholder.jpg{% endif %}" class="rounded" alt="{{ speaker.first_name }} {{ speaker.last_name }}" style="width: 200px; height: auto;">
+                <img src="{{ site.baseurl }}/assets/images/{% if speaker.img %}speaker_thumbs/{{ speaker.img | replace: 'jpg', 'png' }}{% else %}speaker_placeholder.jpg{% endif %}" class="rounded" alt="{{ speaker.first_name }} {{ speaker.last_name }}">
             </a>
         </div>
         <div class="m-3">
