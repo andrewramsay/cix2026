@@ -8,7 +8,7 @@ prefix: Dr
 position: Partner Research Manager and lead of the Microsoft Research Game Intelligence team
 institution: Microsoft Research, Cambridge
 links:
-  - name: Web-pag
+  - name: Web-page
     absolute_url: https://www.microsoft.com/en-us/research/people/kahofman/
 ---
 
