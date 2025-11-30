@@ -79,6 +79,8 @@ Tickets are best bought in advance. You can use the [ScotRail app](https://www.s
 
 It is possible to buy tickets from the conductor on the train, but it's not recommended to rely on being able to do that. ScotRail also frequently check tickets of passengers debarking at busy stations, and major stations like Glasgow Central and Glasgow Queen Street have automated ticket gates. Buying a ticket before you board helps to avoid any delays. 
 
+At both Glasgow Central and Queen Street, trains running west towards Partick always leave from the "low-level" (underground) platforms. These are numbers 16 and 17 at Glasgow Central and 8 and 9 at Queen Street. Westbound trains will always leave from platform 17 at Central and platform 8 at Queen Street.
+
 ## By underground
 
 Glasgow has a small underground network called the [Subway](https://www.spt.co.uk/travel-with-spt/subway/), consisting of a ring of stations served by trains running clockwise ("Outer Circle") and anti-clockwise ("Inner Circle"). See [here](https://www.spt.co.uk/travel-with-spt/subway/maps-stations/) for a diagrammatic view.
