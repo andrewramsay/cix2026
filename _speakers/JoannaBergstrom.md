@@ -1,7 +1,7 @@
 ---
 name: JoannaEmiliaBergström
 first_name: Joanna Emilia 
-last_name: Bergström
+last_name: Bergström (TENTATIVE)
 img: Joanna.jpg
 # "title" = page title so using prefix instead
 prefix: Professor
