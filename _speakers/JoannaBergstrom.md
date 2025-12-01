@@ -1,5 +1,5 @@
 ---
-name: JoannaBergstrom
+name: JoannaEmiliaBergström
 first_name: Joanna Emilia 
 last_name: Bergström
 img: Joanna.jpg
