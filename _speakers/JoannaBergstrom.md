@@ -4,7 +4,7 @@ first_name: Joanna Emilia
 last_name: Bergström
 img: Joanna.jpg
 # "title" = page title so using prefix instead
-prefix: Prof.
+prefix: Professor
 position: Associate Professor
 institution: Human Centred Computing, Copenhagen University
 links:
