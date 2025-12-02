@@ -4,8 +4,8 @@ description: >-
   10th Summer School and Symposium on Computational Interaction,
   University of Glasgow, Scotland.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cix2026.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-dates: "June 15th-20th, 2026"
+url: "https://andrewramsay.github.io/cix2026" # the base hostname & protocol for your site, e.g. https://example.com
+dates: "June 16th-20th, 2026"
 
 theme: jekyll-theme-conference
 
