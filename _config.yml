@@ -82,8 +82,7 @@ conference:
       - name: Location
         relative_url: /location/
       - name: Registration
-        absolute_url: https://www.eventbrite.com
-        disabled: false
+        relative_url: /registration/
       - name: About
         menu:
           - name: About the event
