@@ -34,6 +34,8 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
+  editions:
+    output: true
 
 defaults:
   - scope:
@@ -83,6 +85,8 @@ conference:
         relative_url: /location/
       - name: Registration
         relative_url: /registration/
+      - name: Editions
+        relative_url: /editions/
       - name: About
         menu:
           - name: About the event

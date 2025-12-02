@@ -1,0 +1,43 @@
+{% include partials/header.html %}
+
+  <h1 class="display-5 mb-4 text-break">
+      {{ page.title }}
+  </h1>
+
+  <div class="">
+  {% assign editions = site.editions | sort_natural: 'year' | reverse %}
+  {% for edition in editions %}
+    <div class="col-12 border-bottom pb-4 mb-4">
+        <div class="row align-items-center">
+          <div class="col-md-6 text-center">
+            <h3 class="h3">{{ edition.year }}</h3>
+            <p class="mb-0">
+            {{ edition.host }} <br/>
+            <em>{{ edition.location}}</em>
+            </p>
+            {% if edition.website %}
+            <p class="mb-0">
+            <a href="{{ edition.website }}">Website</a>
+            </p>
+            {% endif %}
+          </div>
+
+          <div class="col-md-6 text-md-end">
+             <div class="d-inline-flex align-items-center justify-content-center justify-content-md-end flex-wrap">
+              <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden" style="width: 200px; height: 200px;">
+                  <img src="{{ site.baseurl}}/assets/images/logos/{{ edition.logo }}" alt="{{ edition.institution }} logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+              </div>
+
+              {% if edition.logo2 %}
+                <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden ml-2" style="width: 200px; height: 200px;">
+                    <img src="{{ site.baseurl }}/assets/images/logos/{{ edition.logo2 }}" alt="Second host institution logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+  {% endfor %}
+</div>
+
+{% include partials/footer.html %}
