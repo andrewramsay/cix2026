@@ -22,15 +22,19 @@
             {% endif %}
           </div>
 
-          <div class="col-md-6 text-md-end">
+          <div class="col-md-6 text-md-end text-center">
              <div class="d-inline-flex align-items-center justify-content-center justify-content-md-end flex-wrap">
               <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden" style="width: 200px; height: 200px;">
-                  <img src="{{ site.baseurl}}/assets/images/logos/{{ edition.logo }}" alt="{{ edition.institution }} logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+                  <a href="{{ site.host_url }}">
+                      <img src="{{ site.baseurl}}/assets/images/logos/{{ edition.logo }}" alt="{{ edition.institution }} logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+                  </a>
               </div>
 
               {% if edition.logo2 %}
                 <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden ml-2" style="width: 200px; height: 200px;">
-                    <img src="{{ site.baseurl }}/assets/images/logos/{{ edition.logo2 }}" alt="Second host institution logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+                    <a href="{{ site.host_url2 }}"> 
+                        <img src="{{ site.baseurl }}/assets/images/logos/{{ edition.logo2 }}" alt="Second host institution logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
+                    </a>
                 </div>
               {% endif %}
             </div>
