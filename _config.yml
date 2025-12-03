@@ -113,9 +113,8 @@ conference:
         relative_url: /program/
       - name: How to get here
         relative_url: /location/
-      - name: Registration (coming soon)
-        disabled: true
-        absolute_url: ''
+      - name: Registration
+        relative_url: /registration/
         icon: clipboard-user
 
   # Information boxes
