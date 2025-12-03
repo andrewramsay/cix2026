@@ -7,9 +7,10 @@
   <div class="">
   {% assign editions = site.editions | sort_natural: 'year' | reverse %}
   {% for edition in editions %}
-    <div class="col-12 border-bottom pb-4 mb-4">
+    <div class="col-12 border-bottom pb-2 mb-2">
         <div class="row align-items-center">
-          <div class="col-md-6 text-center">
+            <div class="col-md-2 text-center"></div>
+          <div class="col-md-4 text-center">
             <h3 class="h3">{{ edition.year }}</h3>
             <p class="mb-0">
             {{ edition.host }} <br/>
@@ -22,16 +23,16 @@
             {% endif %}
           </div>
 
-          <div class="col-md-6 text-md-end text-center">
+          <div class="col-md-4 text-md-end text-center">
              <div class="d-inline-flex align-items-center justify-content-center justify-content-md-end flex-wrap">
-              <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden" style="width: 200px; height: 200px;">
+              <div class="bg-white rounded d-flex align-items-center justify-content-center overflow-hidden" style="width: 200px; height: 200px;">
                   <a href="{{ edition.host_url }}">
                       <img src="{{ site.baseurl}}/assets/images/logos/{{ edition.logo }}" alt="{{ edition.institution }} logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
                   </a>
               </div>
 
               {% if edition.logo2 %}
-                <div class="bg-light border rounded d-flex align-items-center justify-content-center overflow-hidden ml-2" style="width: 200px; height: 200px;">
+                <div class="bg-white rounded d-flex align-items-center justify-content-center overflow-hidden ml-2" style="width: 200px; height: 200px;">
                     <a href="{{ edition.host_url2 }}"> 
                         <img src="{{ site.baseurl }}/assets/images/logos/{{ edition.logo2 }}" alt="Second host institution logo" class="img-fluid" style="object-fit: contain; max-height: 100%; max-width: 100%;">
                     </a>
@@ -39,6 +40,8 @@
               {% endif %}
             </div>
           </div>
+
+            <div class="col-md-2 text-center"></div>
         </div>
       </div>
   {% endfor %}
