@@ -12,7 +12,7 @@ Click [here]({{ site.conference.calendar_file }}) to download an iCal file conta
 <table class="regtablestyle">
     <thead>
         <tr>
-            <th>Event</th>
+            <th style="text-align: center">Event</th>
             <th>Date(s)</th>
         </tr>
     </thead>
@@ -22,7 +22,7 @@ Click [here]({{ site.conference.calendar_file }}) to download an iCal file conta
             {% assign end_dt = event.end %}
             {% assign start = event.start | date: "%A %-d %B %Y" %}
             <tr>
-                <td>{{ event.title | remove_first: "S³CIX 2026: " }}</td>
+                <td style="text-align: center">{{ event.title | remove_first: "S³CIX 2026: " }}</td>
                 <td><strong>{{ start }}</strong></td>
             </tr>
         {% endfor %}
