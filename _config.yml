@@ -61,6 +61,8 @@ conference:
   # Timezone
   tz: "+00:00"
 
+  calendar_file: /s3cix2026.ics
+
   # Show theme errors (set to False for production)
   show_errors: True
 
