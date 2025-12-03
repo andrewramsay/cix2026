@@ -1,0 +1,25 @@
+- title: "S³CIX 2026: Registration opens"
+  start: "2026-02-01"
+  end: "2026-02-02"
+  all_day: true
+- title: "S³CIX 2026: Student application deadline"
+  start: "2026-03-14"
+  end: "2026-03-15"
+  all_day: true
+- title: "S³CIX 2026: Notification of acceptance for students"
+  start: "2026-03-21"
+  end: "2026-03-22"
+  all_day: true
+- title: "S³CIX 2026: Early bird registration closes for academics"
+  start: "2026-04-15"
+  end: "2026-04-16"
+  all_day: true
+  description: "All students should be registered by this date"
+- title: "S³CIX 2026: Late registration closes"
+  start: "2026-05-31"
+  end: "2026-06-01"
+  all_day: true
+- title: "S³CIX 2026: Symposium and summer school"
+  start: "2026-06-16"
+  end: "2026-06-21"
+  all_day: true
