@@ -1,0 +1,15 @@
+// _sass/regcss.scss
+.regtablestyle {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+.regtablestyle th,
+.regtablestyle td {
+  border: 1px solid #000;
+  padding: 8px;
+}
+
+.regtablestyle th {
+  background-color: #f0f0f0;  
+}
