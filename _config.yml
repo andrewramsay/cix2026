@@ -67,7 +67,18 @@ conference:
   show_errors: True
 
   navigation:
-    logo:
+    # s3cix logo, no text
+    logo_s3cix:
+      name: S3CIX
+      img: 's3cix_logo.png'
+      url: '/'
+    # s3cix logo with text
+    logo_s3cix_text:
+      name: S3CIX
+      img: 's3cix_logo_text.png'
+      url: '/'
+    # small UofG logo
+    logo_uofg:
       name: University of Glasgow, School of Computing Science
       img: 'logo_25.jpg'
       url: 'https://gla.ac.uk'
