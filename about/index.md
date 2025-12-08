@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![](/assets/images/s3cix_logo_text.png)
 
 This will be the 10th Summer School on Computational Interaction. This is a series which we started in Glasgow in 2015, and which has been run successfully at a range of venues.
 
