@@ -12,9 +12,9 @@ We are interested in proposals for workshops. A CIX Workshop is a working sessio
 
 Please send us a one page description to [cix2026+workshops@glasgow.ac.uk](mailto:cix2026+workshops@glasgow.ac.uk). 
 1. Why this workshop? 
-Explain the topic, what's important about it, and your goals. Workshops will be attended by all Computational Interaction Symposium regular attendees. Explain why this topic will be of broad relevance.
+Explain the topic, what's important about it, and your goals. Workshops will be attended by all Computational Interaction Symposium regular attendees. Explain why this topic will be of broad relevance. 
 1. Who’s organizing? 
-List names, roles, and why you are the right team.
+List names, roles, and why you are the right team. (Don't add names of people who are not planning to be there in person!)
 1. Activities: 
 What will you do in the workshop? (e.g., talks, hands-on demos)
 1. After the workshop: 
@@ -24,10 +24,10 @@ Provide a 250-word title and abstract that will be posted on CIX 2026 site to ad
 - Your format and goals
 - If you are calling for contributions, who should contribute and what they need to submit, including how and when to submit
 - Publishing plans (do you want to create a special issue of a journal?)
-- That at least one organizer per accepted workshop must register by the early-bird deadline, and attend.
+- That all of the named organizers agree to register by the early-bird deadline, and attend. 
 - Workshop website, if appropriate.
 
-Workshop proposals will be selected by the local Chairs and some other CIX Board members. 
+Workshop proposals will be selected by the local Chairs and some other CIX Board members. One of the organisers should be prepared to make a contribution to the Field Building session to argue for the importance of the workshop. 
 
 ---
 
