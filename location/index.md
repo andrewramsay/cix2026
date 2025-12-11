@@ -111,3 +111,7 @@ Some tips on cycling to/from the university:
  - on the other side of the campus, the [Botanic Gardens](https://www.google.co.uk/maps/place/Glasgow+Botanic+Gardens/@55.8764453,-4.2961158,16.39z/data=!4m15!1m8!3m7!1s0x488845d254ffb7fd:0xd0e48822fcbea33!2sKelvin+Way,+Glasgow,+UK!3b1!8m2!3d55.8698457!4d-4.2864389!16s%2Fg%2F1tcxp7kr!3m5!1s0x488845cbe87ec1f1:0x363cef30dce1cbc0!8m2!3d55.8797045!4d-4.2911777!16zL20vMDY5a19i?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D) is a similarly quiet place to cycle
  - the River Kelvin has a [walking/cycling route](https://www.google.co.uk/maps/place/Kelvin+Walkway,+Glasgow,+UK/@55.8820955,-4.2932773,17z/data=!3m1!4b1!4m6!3m5!1s0x488845b68946b5ff:0xf225b22464854bcf!8m2!3d55.8820925!4d-4.2907024!16s%2Fg%2F11b62p7msh?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D) along much of its length as it passes through the city. Note that this is often quite narrow and you must be aware of pedestrians!
 
+
+# Student Accomodation
+
+There will be availability for course particpants at Queen Margaret Residences, which offers modern single en-suite rooms in self-catered flats at a cost of £46.50 per room, per night, for a single, en-suite room. You can find more information and photos here: [Queen Margaret Residences](https://www.gla.ac.uk/myglasgow/accommodation/visitorstouristsgroups/residences/queenmargaretresidences/).
