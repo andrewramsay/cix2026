@@ -39,8 +39,8 @@ Registration is yet to open, but will be done through EventBrite.
 
 | Registration type | Price |
 | :---: | --- | --- |
-|Student (no accommodation) | **£275** |
-|Academic/postdoc | **£300** |
-|Late registration (student) | **£325** |
-|Late registration (academic) | **£350** |
+|Student (no accommodation) | **£350** |
+|Academic/postdoc | **£375** |
+|Late registration (student) | **£375** |
+|Late registration (academic) | **£400** |
 {:.regtablestyle}
