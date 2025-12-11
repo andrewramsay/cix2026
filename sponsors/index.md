@@ -34,6 +34,7 @@ layout: page
   <div class="col-md-9">
     <p>
       <strong>CIX 2025, Paris</strong><br/>
+      We thank the team from the 2025 Summer School for further support.
     </p>
   </div>
 </div>
