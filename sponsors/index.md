@@ -34,7 +34,6 @@ layout: page
   <div class="col-md-9">
     <p>
       <strong>CIX 2025, Paris</strong><br/>
-    The Designing Interaction Freedom via Active Inference (DIFAI) project is an ERC Advanced Grant, led by <a href="https://www.dcs.gla.ac.uk/~rod/">Rod Murray-Smith</a> and which started on 1st January 2024. The project was selected by the ERC (proposal 101097708) and was funded by the UK Horizon guarantee scheme as EPSRC project <a href="https://gtr.ukri.org/projects?ref=EP%2FY029178%2F1">EP/Y029178/1.</a>
     </p>
   </div>
 </div>
