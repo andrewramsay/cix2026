@@ -35,7 +35,7 @@ Registration is yet to open, but will be done through EventBrite.
 
 ## Pricing
 
-(prices still subject to change)
+(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches.)
 
 | Registration type | Price |
 | :---: | --- | --- |
