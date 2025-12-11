@@ -27,6 +27,6 @@ The student submission form will ask you to submit a CV, and a short research st
 - 9th March 2026: Talks results notification.
 - 14th March 2026: Application deadline for students.
 - 21st March 2026: Notification of acceptance for students.
-- 15th April 2026: Early-bird registration closes for academics, and all students should be registered by this deadline.
+- 15th April 2026: Early-bird registration closes for academics, and all students should be registered by this deadline. Student accomodation should also be booked by this deadline.
 - 31st May: Late registration closes
 - 16-20th June 2026: Symposium and Summer School takes place.
