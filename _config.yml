@@ -93,11 +93,13 @@ conference:
       - name: Speakers
         relative_url: /speakers/
       - name: Workshops
-        relative_url: /workshops/
+        relative_url: /cfp/
       - name: Location
         relative_url: /location/
       - name: Registration
         relative_url: /registration/
+      - name: Accommodation
+        relative_url: /accommodation/
       - name: Editions
         relative_url: /editions/
       - name: About

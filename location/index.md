@@ -112,14 +112,3 @@ Some tips on cycling to/from the university:
  - the River Kelvin has a [walking/cycling route](https://www.google.co.uk/maps/place/Kelvin+Walkway,+Glasgow,+UK/@55.8820955,-4.2932773,17z/data=!3m1!4b1!4m6!3m5!1s0x488845b68946b5ff:0xf225b22464854bcf!8m2!3d55.8820925!4d-4.2907024!16s%2Fg%2F11b62p7msh?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D) along much of its length as it passes through the city. Note that this is often quite narrow and you must be aware of pedestrians!
 
 
-# Student Accomodation
-
-There will be availability for S3CIX particpants at Queen Margaret Residences, which offers modern single en-suite rooms in self-catered flats at a cost of £46.50 per room, per night, for a single, en-suite room. 
-
-You can find more information and photos here: [Queen Margaret Residences](https://www.gla.ac.uk/myglasgow/accommodation/visitorstouristsgroups/residences/queenmargaretresidences/).
-Delegates can book accommodation for any number of nights between Monday 15 June 2026 and Saturday 20 June 2026. We have been assigned 40 rooms on a first-come-first served basis.  
-
-The booking portal link is [https://book.accom.gla.ac.uk/KxBnBLive/Default.aspx](https://book.accom.gla.ac.uk/KxBnBLive/Default.aspx).
-Please use promotion code is S3CIX25 so that you are allocated the right price and location. Accommodation bookings must be paid for online at the time of reservation, and this process is completely separate from the Symposium/Summer School Registration process. If the booking process is not completed with payment (by card) then the room is not reserved. Please book and pay for your accomodation before the 15th of April 2026.
- 
-
