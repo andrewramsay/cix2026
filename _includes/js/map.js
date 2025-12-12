@@ -26,7 +26,7 @@ window.conference.map = (() => {
         const locations = [
             {
                 lat: 55.884647,
-                lon: 4.296251,
+                lon: -4.296251,
                 name: "Queen Margaret Residences (Accomodation)",
             },
             {
