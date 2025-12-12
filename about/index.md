@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![](/assets/images/s3cix_logo_text.png)
 
-This will be the 10th Summer School on Computational Interaction. This is a series which we started in Glasgow in 2015, and which has been run successfully at a range of venues.
+This will be the 10th Summer School on Computational Interaction. This is a series which we started in Glasgow in 2015, and which has been run successfully at a range of venues. This year's Chairs are Dr. [John H. Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/), and Prof. [Roderick Murray-Smith](https://www.dcs.gla.ac.uk/~rod/). John organised the inaugural event in 2015.
 
 Because of this success, we are expanding from the pure Summer School format to also include a 4 day long academic Symposium. We anticipate about 30 students and 40 academics and invited speakers to attend. 
 There will also be two workshops. 
