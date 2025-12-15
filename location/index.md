@@ -23,7 +23,7 @@ If you are staying near the university campus, you can get off at the "Bothwell 
 
 This is around 40 miles from Glasgow, but is a busier airport and may have more flight options. 
 
-From the airport, you can reach Glasgow by [bus](https://www.citylink.co.uk/timetables-service-updates/glasgow-edinburgh-airport/) or by train. 
+From the airport, you can reach Glasgow by [bus](https://www.citylink.co.uk/timetables-service-updates/glasgow-edinburgh-airport/) (fastest connection from Edinburgh airport to Glasgow city centre) or by train (first you need to take the tram to the centre of Edinburgh). 
 
 If travelling by train, you can catch [a tram](https://edinburghtrams.com/) from [just outside the airport terminal](https://www.google.com/maps/@55.9473866,-3.3613274,3a,75y,62.62h,81.65t/data=!3m7!1e1!3m5!1sXmWeYkN6FFHXMWmPcSWe1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.354318747564179%26panoid%3DXmWeYkN6FFHXMWmPcSWe1w%26yaw%3D62.61582995781767!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D). Alight at the "Edinburgh Park Station" stop, co-located with the rail station of the same name. From here you can get a direct train to Glasgow. 
 

@@ -25,6 +25,16 @@ window.conference.map = (() => {
         // locations to show as map markers
         const locations = [
             {
+                lat: 55.865534000615945,
+                lon: -4.251593707697684,
+                name: "Buchanan St. Bus Station",
+            },
+            {
+                lat: 55.884647,
+                lon: -4.296251,
+                name: "Queen Margaret Residences (Accomodation)",
+            },
+            {
                 lat: 55.8739595,
                 lon: -4.2917625,
                 name: "Sir Alwyn Williams Building",
