@@ -1,7 +1,7 @@
 ---
-name: KajtaHoffmann
+name: KajtaHofmann
 first_name: Katja
-last_name: Hoffmann
+last_name: Hofmann
 img: Katja.jpg
 # "title" = page title so using prefix instead
 prefix: Dr
