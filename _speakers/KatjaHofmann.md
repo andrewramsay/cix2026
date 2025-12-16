@@ -5,7 +5,7 @@ last_name: Hofmann
 img: Katja.jpg
 # "title" = page title so using prefix instead
 prefix: Dr
-position: Partner Research Manager and lead of the Microsoft Research Game Intelligence team
+position: Partner Research Manager and co-lead of People Centric AI
 institution: Microsoft Research, Cambridge
 links:
   - name: Web-page
