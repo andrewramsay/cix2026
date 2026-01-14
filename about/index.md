@@ -20,9 +20,10 @@ The student submission form will ask you to submit a CV, and a short research st
 5.  the ability to simulate or synthesise elements of the expected user-system behaviour.”
 
 **Important Dates**
-- 31st January 2026: Call for Workshops deadline
+- 14th January 2026: Call for student applications and workshops
 - 1st February: Registration opens
-- 9th February: Workshop results notification
+- 14th February 2026: Call for Workshops deadline
+- 21st February: Workshop results notification
 - 28th February 2026: Call for Talks/Opinion Talks/Posters deadline
 - 9th March 2026: Talks results notification.
 - 14th March 2026: Application deadline for students.
