@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Call for Workshops**
 
-*Deadline 31st January 2026.*
+*Deadline 14th February 2026.*
 
 We are interested in proposals for workshops. A CIX Workshop is a working session where people come together to share ideas, solve problems, and learn from each other about a focused topic in the general area of computational human-computer interaction.
 
