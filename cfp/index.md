@@ -3,10 +3,14 @@ layout: page
 title: Call for participation
 permalink: /cfp/
 ---
+**Call for student applications for the Summer School**
+The deadline for applications is March 14, 2026, anywhere on Earth. However, in the case of oversubscription we will prioritise early applications, so don't delay.
+
+The student submission form will ask you to submit a CV, and a short research statement (no longer than 1 page) describing your research interests and a brief description of how attending this summer school will help you in your research.  Note that submitting an application is a binding registration, and upon acceptance you will need to pay the registration fee.
 
 **Call for Workshops**
 
-*Deadline 14th February 2026.*
+*Deadline 14th February 2026, anywhere on Earth*
 
 We are interested in proposals for workshops. A CIX Workshop is a working session where people come together to share ideas, solve problems, and learn from each other about a focused topic in the general area of computational human-computer interaction.
 
@@ -33,7 +37,7 @@ Workshop proposals will be selected by the local Chairs and some other CIX Board
 
 **Call for Talks and Posters**
 
-*Deadline 28th February 2026*
+*Deadline 28th February 2026, anywhere on Earth*
 
 We will have three main `open' presentation options:
 - Long and short talk presentations (20 and 10 minutes).
