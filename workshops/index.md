@@ -1,4 +1,4 @@
 ---
-layout: wokshops-overview
+layout: workshops-overview
 title: workshops
 ---
