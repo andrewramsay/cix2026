@@ -8,5 +8,5 @@ layout: page
 
 *Social Media*
 Follow us for updates!
-- [Twitter @s3cix](https://twitter.com/S3CIX)
-- [Bluesky @s3cix.bsky.social](https://bsky.app/profile/s3cix.bsky.social)
+- Twitter [@s3cix](https://twitter.com/S3CIX)
+- Bluesky [@s3cix.bsky.social](https://bsky.app/profile/s3cix.bsky.social)
