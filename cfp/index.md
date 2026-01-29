@@ -8,6 +8,8 @@ permalink: /cfp/
 *The deadline for student applications is March 14, 2026, anywhere on Earth.*
 (However, in the case of oversubscription we will prioritise early applications, so don't delay in sending your application.)
 
+If you need a visa to enter the UK, please highlight this in your e-mail, giving details of your nationality and expected visa processing time at the start, and submit your application as early as possible. We will prioritise the early processing of such applications, and provide a letter to show the consular authorities, before the general deadline to help give you the time to sort out the visa.  
+
 The student submission form will ask you to submit a CV, and a short research statement (no longer than 1 page) describing your research interests and a brief description of how attending this summer school will help you in your research.  Note that submitting an application is a binding registration, and upon acceptance you will need to pay the registration fee.
 
 **Call for Workshops**
