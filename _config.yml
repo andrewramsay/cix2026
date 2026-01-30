@@ -133,16 +133,16 @@ conference:
         icon: clipboard-user
 
   # Information boxes
-  # info_bars:
-  #   - title: Some important information
-  #     color: warning
-  #     main_only: true
-  #     text: |
-  #       Attendees should be aware of the upcoming deadline for registrations on xx/yy/zz
-  #
-  #       ---
-  #
-  #       Please click [here](https://eventbrite.com) to register.
+  info_bars:
+    - title: Delayed opening of registration
+      color: warning
+      main_only: false
+      text: |
+        Registration will not open on February 1st as previously advertised, due to an issue with payment processing.
+
+        ---
+
+        As soon as this problem has been resolved the registration link will become available. Please check back soon!
 
   # Live indications
   live:
