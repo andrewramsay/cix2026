@@ -7,6 +7,7 @@ img: Antti.jpg
 prefix: Professor
 position: Professor
 institution: Aalto University, Finland
+talk:  Computational Rationality: Using Reinforcement Learning to Understand and Predict Interactive Behavior
 links:
   - name: Web-page
     absolute_url: https://users.aalto.fi/~oulasvir/
