@@ -26,7 +26,7 @@
                 {{ speaker.prefix }} {{ speaker.first_name }} {{ speaker.last_name }}
             </a>
           </h5>
-          <p class="text-muted mb-0">{{ speaker.position }} <br/> {{ speaker.institution }}<br/> <b>{{speaker.talk }}</b>. </p>
+          <p class="text-muted mb-0">{{ speaker.position }} <br/> {{ speaker.institution }}<br/><br/>  Talk: <b>{{speaker.talk }}</b>. </p>
         </div>
       </div>
       {% unless forloop.last %}
