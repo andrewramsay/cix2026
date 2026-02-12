@@ -7,6 +7,7 @@ img: Katja.jpg
 prefix: Dr
 position: Partner Research Manager and co-lead of People Centric AI
 institution: Microsoft Research, Cambridge
+talk: Generative AI for Connection and Creativity
 links:
   - name: Web-page
     absolute_url: https://www.microsoft.com/en-us/research/people/kahofman/
