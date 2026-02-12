@@ -7,6 +7,7 @@ img: Thomas.jpg
 prefix: Dr.
 position: Postdoctoral researcher
 institution: Aalto University, Finland
+talk: Introduction to Reinforcement Learning in Interactive Systems. Experience is All You Need
 links:
   - name: Web-page
     absolute_url: https://thomaslangerak.nl/
