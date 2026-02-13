@@ -8,8 +8,6 @@ permalink: /cfp/
 *The deadline for student applications is March 14, 2026, anywhere on Earth.*
 (However, in the case of oversubscription we will prioritise early applications, so don't delay in sending your application.)
 
-If you need a visa to enter the UK, please highlight this in your e-mail, giving details of your nationality and expected visa processing time at the start, and submit your application as early as possible. We will prioritise the early processing of such applications, and provide a letter to show the consular authorities, before the general deadline to help give you the time to sort out the visa.  
-
 The student submission form will ask you to submit a CV, and a short research statement (no longer than 1 page) describing your research interests and a brief description of how attending this summer school will help you in your research.  Note that submitting an application is a binding registration, and upon acceptance you will need to pay the registration fee.
 
 **Call for Workshops**
@@ -18,7 +16,7 @@ The student submission form will ask you to submit a CV, and a short research st
 
 We are interested in proposals for workshops. A CIX Workshop is a working session where people come together to share ideas, solve problems, and learn from each other about a focused topic in the general area of computational human-computer interaction.
 
-Please send us a one page description to [cix2026+workshops@glasgow.ac.uk](mailto:cix2026+workshops@glasgow.ac.uk). 
+Please send us a one page description to [cix2026@glasgow.ac.uk](mailto:cix2026@glasgow.ac.uk). 
 1. Why this workshop? 
 Explain the topic, what's important about it, and your goals. Workshops will be attended by all Computational Interaction Symposium regular attendees. Explain why this topic will be of broad relevance. 
 1. Who’s organizing? 
@@ -59,5 +57,5 @@ The Field Building session on Wednesday the 17th June will be a chance for us to
 *Posters*
 We will have a poster session on the first day, before the Welcome Reception, and this will be a good chance for people to get to know each other, so all participants are welcome to present a poster. Please provide the poster title when registering, if you wish to present one, so that we can plan sufficient space. If you need a formal acceptance letter for travel funding purposes, please let us know, and we can generate one for you.
 
-Send the details to   [cix2026+submissions@glasgow.ac.uk](mailto:cix2026+submissions@glasgow.ac.uk). 
+Send the details to   [cix2026@glasgow.ac.uk](mailto:cix2026@glasgow.ac.uk). 
 
