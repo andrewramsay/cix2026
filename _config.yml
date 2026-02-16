@@ -167,7 +167,9 @@ conference:
       - name: Track A
         color: success
       - name: Track B
-        color: warning
+        color: success
+      - name: Track C
+        color: success
       - name: Track Social
         color: danger
 
