@@ -6,7 +6,7 @@ img: MarkColley.jpg
 # "title" = page title so using prefix instead
 prefix: Dr
 position: Lecturer
-talk: Optimizing Interactive Mobility Interfaces with Human Feedback: Multi Objective Bayesian Optimization in Practice
+talk: Optimizing Interactive Mobility Interfaces with Human Feedback. Multi Objective Bayesian Optimization in Practice
 institution: University College London
 links:
   - name: Web-page
