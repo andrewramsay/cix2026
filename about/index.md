@@ -24,7 +24,7 @@ The student submission form will ask you to submit a CV, and a short research st
 - 1st February: Registration opens
 - 14th February 2026: Call for Workshops deadline
 - 21st February: Workshop results notification
-- 28th February 2026: Call for Talks/Opinion Talks/Posters deadline
+- 28th February 2026: Call for Talks/Opinion Talks deadline
 - 9th March 2026: Talks results notification.
 - 14th March 2026: Application deadline for students.
 - 21st March 2026: Notification of acceptance for students.
