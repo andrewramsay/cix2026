@@ -2,8 +2,18 @@
 title: Registration
 layout: page
 ---
-
 ---
+## Student applications
+
+For students wishing to attend the summer school, you can now submit your applications by email. 
+
+Please send the following details to **cix2026@glasgow.ac.uk**:
+
+ * Name
+ * Contact email (if different from sending address)
+ * Institution/organization
+ * A max ~1 page research statement covering your research interests and why attending the summer school would help your research
+ * A copy of your CV 
 
 ## Key dates
 

@@ -143,6 +143,11 @@ conference:
         ---
 
         As soon as this problem has been resolved the registration link will become available. Please check back soon!
+    - title: Student applications are open
+      color: success
+      main_only: false
+      text: |
+        See <a href="https://s3cix.computationalinteraction.org/registration/">Registration</a> for details
 
   # Live indications
   live:
