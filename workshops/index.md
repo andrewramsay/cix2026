@@ -1,5 +1,5 @@
 ---
-layout: workshops-overview
+layout: page
 title: Workshops
 permalink: /workshops/
 ---
