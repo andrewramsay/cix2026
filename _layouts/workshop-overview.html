@@ -13,10 +13,7 @@
   {% assign workshops = site.workshops | sort: "index" %}
   <ol>
   {% for workshop in workshops %}
-  <li><a href="{{ workshop.url | prepend: site.baseurl }}">{{ workshop.fullname }}</a>, <em> {{ workshop.organized_by }} </em></li>
-      {% unless forloop.last %}
-        <hr class="my-0">
-      {% endunless %}
+      <li><a href="{{ workshop.url | prepend: site.baseurl }}">{{ workshop.fullname }}</a>, <em> {{ workshop.organized_by }} </em></li>
   {% endfor %}
 </ol>
 
