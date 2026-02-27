@@ -1,4 +1,6 @@
-Theory in Computational Interaction,
-2. Biomechanical RL as a Methodological Direction for Computational Interaction?
-3. Active Inference and Computational Interaction
-4. Teaching Computational Interaction
+---
+name: theoryci
+fullname: Theory in Computational Interaction
+organized_by: Antti Oulasvirta, Thomas Langerak (Aalto U), Philipp Wintersberger (IT:U), Patrick Ebel (HPI), Michal Miazga (U Leipzig), Danqing Shi (U Cambridge), Helena Frijns (IT:U), and Andrew Howes (Exeter)
+index: 0
+---

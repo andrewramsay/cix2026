@@ -1,0 +1,23 @@
+{% include partials/header.html %}
+
+  <h1 class="display-5 mb-4 text-break">
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.data.lang[site.conference.lang].workshop.overview | default: "Workshops" }}
+    {% endif %}
+  </h1>
+
+  {{ content }}
+
+  {% assign workshops = site.workshops | sort: "index" %}
+  <ol>
+  {% for workshop in workshops %}
+  <li><a href="{{ workshop.url | prepend: site.baseurl }}">{{ workshop.fullname }}</a>, <em> {{ workshop.organized_by }} </em></li>
+      {% unless forloop.last %}
+        <hr class="my-0">
+      {% endunless %}
+  {% endfor %}
+</ol>
+
+{% include partials/footer.html %}

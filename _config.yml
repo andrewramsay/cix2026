@@ -36,6 +36,9 @@ collections:
     permalink: /:collection/:title/
   editions:
     output: true
+  workshops:
+    permalink: /:collection/:title/
+    output: true
 
 defaults:
   - scope:
@@ -53,6 +56,11 @@ defaults:
       type: rooms
     values:
       layout: room
+  - scope:
+      path: ""
+      type: "workshops"
+    values:
+      layout: workshop
 
 
 conference:

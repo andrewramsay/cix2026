@@ -1,0 +1,11 @@
+{%- assign workshop = page -%}
+
+{%- include partials/header.html -%}
+
+<h1 class="font-weight-light mb-3 text-break">Workshop: {{ workshop.fullname }}</h1>
+
+{{ content }}
+
+{% include partials/get_link_types.html %}
+
+{%- include partials/footer.html -%}

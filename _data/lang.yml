@@ -46,6 +46,9 @@ en:
   talk:
     overview: Talks
     title: Talk
+  workshop:
+    overview: Workshops
+    title: Workshop
 
 de:
   pronoun:
