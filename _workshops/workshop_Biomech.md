@@ -6,6 +6,7 @@ index: 1
 ---
 
 **Organisers**
+Florian Fischer (U Cambridge), Arthur Fleig (Leipzig U), Patrick Ebel (HPI), Miroslav Bachinski (Associate Professor, U Bergen), Roderick Murray-Smith (U Glasgow), Antti Oulasvirta (Aalto U), and Per Ola Kristensson (U Cambridge)
 
 **Motivation**
 Imagine testing hundreds of interaction designs for an XR application overnight—taking into account criteria that you
