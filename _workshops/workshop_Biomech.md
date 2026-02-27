@@ -28,3 +28,14 @@ of its current limitations are we positioned and willing to address, and where t
 RL do we deem essential, and how to communicate this to the broader HCI community?* This workshop seeks a critical,
 strategic reflection on biomechanical reinforcement learning as a method in Computational Interaction, and to define a
 roadmap for biomechanical RL in HCI.
+
+**Call for Participation:**
+Imagine testing hundreds of interaction designs for an XR application overnight—taking into account criteria that you
+deem important, such as physical toll, accuracy, and speed. While future biomechanical simulations trained via reinforce
+ment learning (RL) could offer these possibilities, acting as "virtual crash test dummies" at early stages of the design process, several challenges, including methodological com plexity, steep entry barriers, and a lack of interpretability and
+adaptability, currently limit this approach for HCI research and interaction design. This S3CIX 2026 workshop seeks a critical, strategic reflection on biomechanical reinforcement
+learning as a method in Computational Interaction, and to define a roadmap for biomechanical RL in HCI. It invites all interested HCI researchers to discuss which limitations we as a community are positioned and willing to address, how to tackle them, and where to start best. 
+
+To let us know about your interest in this workshop, please fill the form on our
+website https://biomechanicalrl.github.io, where you are asked to share your previous experiences with biomechanical RL (if any) and share your expectations for this workshop. All participants will be invited to contribute to an Interactions
+article, where we will share our insights on the potential of biomechanical user simulations for computational interaction and HCI research.
