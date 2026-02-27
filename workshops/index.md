@@ -1,6 +1,7 @@
 ---
 layout: workshops-overview
-title: workshops
+title: Workshops
+permalink: /workshops/
 ---
 There will be four workshops/special sessions at S3CIX. 
 
