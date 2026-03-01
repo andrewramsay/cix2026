@@ -7,11 +7,12 @@ img: Kasper.jpg
 prefix: Professor
 position: Professor
 institution:  Department of Computer Science, University of Copenhagen
-talk:  Theory
+talk: Theory
 links:
   - name: Web-page
-    absolute_url: [https://www.kasperhornbaek.dk/](https://www.kasperhornbaek.dk/)
+    absolute_url: https://www.kasperhornbaek.dk/
 ---
+
 *Keynote Title:* Theory
 
 *Biography:*  Kasper is a professor in the Department of Computer Science at University of Copenhagen. His research interests are in human-computer interact, particularly on improving human interaction with computer systems through empirical investigations of how computers are used and through explorations of innovative user interfaces. 
