@@ -5,7 +5,7 @@ layout: page
 ---
 ## Student applications
 
-For students wishing to attend the summer school, you can now submit your applications by email. 
+For students wishing to attend the summer school, you can now submit your applications by email.  (Registration comes later, once you are accepted, so you are not affected by the delay mention above in opening paid registration.)
 
 Please send the following details to **cix2026@glasgow.ac.uk**:
 
