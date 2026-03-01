@@ -7,7 +7,7 @@ img: Kasper.jpg
 prefix: Professor
 position: Professor
 institution:  Department of Computer Science, University of Copenhagen
-talk:  Theory 
+talk:  Theory
 links:
   - name: Web-page
     absolute_url: [https://www.kasperhornbaek.dk/](https://www.kasperhornbaek.dk/)
