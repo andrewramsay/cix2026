@@ -41,7 +41,7 @@ days:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
-      - name: Keynote 2
+      - name: Theory in HCI (TBC)
         time_start: '09:30'
         time_end: '10:30'
       - name: Coffee
@@ -101,7 +101,7 @@ days:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
-      - name: Keynote 3
+      - name: Generative AI for Connection and Creativity
         time_start: '09:30'
         time_end: '10:30'
       - name: Coffee
@@ -159,7 +159,7 @@ days:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
-      - name: Keynote 4
+      - name: Machine Learning for Human–Robot Interaction. Vision-Language Grounding, Personalization, and Failure Awareness
         time_start: '09:30'
         time_end: '10:30'
       - name: Coffee
