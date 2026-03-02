@@ -1,9 +1,10 @@
 ---
-name: Workshop C
+name: Active Inference and Computational Interaction
 speakers:
-  - TBC TBA
+  - RoderickMurray-Smith
+  - JohnWilliamson
 track: Track C
 tags:
   - workshop
 ---
-Workshop C
+
