@@ -1,5 +1,5 @@
 ---
-name: Computational Rationality: Using Reinforcement Learning to Understand and Predict Interactive Behavior
+name: 'Computational Rationality: Using Reinforcement Learning to Understand and Predict Interactive Behavior'
 speakers:
   - AnttiOulasvirta
   - ThomasLangerak
