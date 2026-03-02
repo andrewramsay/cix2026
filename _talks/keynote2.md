@@ -1,7 +1,7 @@
 ---
 name: Keynote 2
 speakers:
-  - TBA
+  - Kasper Hornbæk
 track: Track All
 tags:
   - keynote
