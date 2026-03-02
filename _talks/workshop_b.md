@@ -1,9 +1,15 @@
 ---
-name: Workshop B
+name: Biomechanical RL as a Methodological Direction for Computational Interaction
 speakers:
-  - TBA TBA
+  - FlorianFischer
+  - ArthurFleig
+  - PatrickEbel
+  - MiroslavBachinski
+  - RoderickMurray-Smith
+  - AnttiOulasvirta
+  - PerOlaKristensson
 track: Track A
 tags:
   - workshop
 ---
-Workshop A
+
