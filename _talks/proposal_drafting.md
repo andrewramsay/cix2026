@@ -1,5 +1,5 @@
 ---
-name: Proposal Pitch Drafting
+name: Proposal pitch drafting
 speakers:
   - TBA
 track: Track B
