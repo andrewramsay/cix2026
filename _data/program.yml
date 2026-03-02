@@ -8,7 +8,7 @@ days:
       - name: Welcome
         time_start: '09:00'
         time_end: '09:30'
-      - name: Keynote 1
+      - name: Interaction in movement. Computational modelling of human road user behaviour
         time_start: '09:30'
         time_end: '10:30'
       - name: Coffee
