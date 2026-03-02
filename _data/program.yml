@@ -53,6 +53,7 @@ days:
         time_end: '11:00'
         
   - name: SAWB 422
+    talks:
       - name: Theory in Computational Interaction
         time_start: '11:00'
         time_end: '13:00'
@@ -180,6 +181,9 @@ days:
       - name: Coffee
         time_start: '10:30'
         time_end: '11:00'
+        
+    - name: SAWB 422
+      talks:
       - name: Teaching Computational Interaction
         time_start: '11:00'
         time_end: '13:00'
