@@ -1,5 +1,5 @@
 ---
-name: Theory in HCI
+name: Keynote 2
 speakers:
   - KasperHornbaek
 track: Track All
