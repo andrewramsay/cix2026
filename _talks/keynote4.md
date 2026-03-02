@@ -1,9 +1,9 @@
 ---
-name: Keynote 4
+name: Machine Learning for Human–Robot Interaction. Vision-Language Grounding, Personalization, and Failure Awareness
 speakers:
-  - TBA TBA
+  - MohamedChetouani
 track: Track All
 tags:
   - keynote
 ---
-Keynote 4
+
