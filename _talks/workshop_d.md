@@ -1,9 +1,11 @@
 ---
-name: Workshop D
+name: Teaching Computational Interaction
 speakers:
-  - TBC TBA
+  - ThomasLangerak
+  - AnttiOulasvirta
+  - PatrickEbel
+  - PhilippWintersberger
 track: Track C
 tags:
   - workshop
 ---
-Workshop D
