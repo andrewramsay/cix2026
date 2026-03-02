@@ -1,7 +1,7 @@
 ---
-name: Keynote 3
+name: Generative AI for Connection and Creativity
 speakers:
-  - TBA TBA
+  - KatjaHofman
 track: Track All
 tags:
   - keynote
