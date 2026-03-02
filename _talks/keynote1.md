@@ -1,5 +1,5 @@
 ---
-name: Keynote 1
+name: Interaction in movement
 speakers:
   - GustavMarkkula
 track: Track All
