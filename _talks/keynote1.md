@@ -1,5 +1,5 @@
 ---
-name: keynote1
+name: Keynote 1
 speakers:
   - Gustav Markkula
 track: Track All
