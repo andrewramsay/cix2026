@@ -1,9 +1,9 @@
 ---
-name: Keynote 2
+name: Theory in HCI
 speakers:
-  - Kasper Hornbæk
+  - KasperHornbaek
 track: Track All
 tags:
   - keynote
 ---
-Kasper Hornbæk
+
