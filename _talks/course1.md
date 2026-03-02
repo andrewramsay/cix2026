@@ -1,7 +1,7 @@
 ---
 name: Bayesian Modeling of Multisensory Integration in Interactive Movement
 speakers:
-  - JoannaEmiliaBergström
+  - JoannaBergstrom
 track: Track B
 ---
 
