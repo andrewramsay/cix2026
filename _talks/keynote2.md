@@ -1,5 +1,5 @@
 ---
-name: Keynote 2
+name: Theory in HCI (TBC)
 speakers:
   - KasperHornbaek
 track: Track All
