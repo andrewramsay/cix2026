@@ -1,7 +1,8 @@
 ---
-name: Course 3
+name: Computational Rationality: Using Reinforcement Learning to Understand and Predict Interactive Behavior
 speakers:
-  - TBA
+  - AnttiOulasvirta
+  - ThomasLangerak
 track: Track B
 ---
 
