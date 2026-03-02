@@ -48,7 +48,7 @@ days:
         time_start: '10:30'
         time_end: '11:00'
 
-    - name: SAWB 422/423
+    - name: SAWB 422
       talks:
       - name: Theory in Computational Interaction
         time_start: '11:00'
