@@ -1,7 +1,7 @@
 ---
 name: Generative AI for Connection and Creativity
 speakers:
-  - KatjaHofman
+  - KatjaHofmann
 track: Track All
 tags:
   - keynote
