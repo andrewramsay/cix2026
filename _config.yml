@@ -180,9 +180,7 @@ conference:
       - name: Track A
         color: success
       - name: Track B
-        color: success
-      - name: Track C
-        color: success
+        color: orange
       - name: Track Social
         color: danger
 
