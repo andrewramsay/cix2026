@@ -1,7 +1,7 @@
 ---
 name: keynote1
 speakers:
-  - Gustav Markkula
+  - GustavMarkkula
 track: Track All
 tags:
   - keynote
