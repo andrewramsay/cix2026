@@ -1,5 +1,5 @@
 ---
-name: Optimizing Interactive Mobility Interfaces with Human Feedback: Multi Objective Bayesian Optimization in Practice
+name: 'Optimizing Interactive Mobility Interfaces with Human Feedback: Multi Objective Bayesian Optimization in Practice'
 speakers:
   - MarkColley
 track: Track B
