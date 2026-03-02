@@ -31,9 +31,11 @@ days:
         time_end: '18:00'
       - name: Reception
         time_start: '18:00'
-        time_end: '20:00'
-
-    
+        time_end: '20:00'   
+ - name: Outside
+    talks: Student social warm up
+    time_start: '14:00'
+    time_end: '16:00'
 - name: Wednesday
   abbr: We
   date: 2026-06-17
@@ -49,7 +51,6 @@ days:
       - name: Coffee
         time_start: '10:30'
         time_end: '11:00'
-        
   - name: SAWB 422
     talks:
       - name: Theory in Computational Interaction
@@ -73,7 +74,6 @@ days:
       - name: Away Event
         time_start: '18:00'
         time_end: '21:30'
-        
   - name: SAWB 423
     talks:
       - name: Coffee
@@ -99,8 +99,7 @@ days:
         time_end: '18:00'
       - name: Coffee
         time_start: '16:00'
-        time_end: '16:30'
-        
+        time_end: '16:30'  
 - name: Thursday
   abbr: Th
   date: 2026-06-18
@@ -116,7 +115,6 @@ days:
       - name: Coffee
         time_start: '10:30'
         time_end: '11:00'
-
     - name: SAWB 422
       talks:
       - name: Active Inference and Computational Interaction
@@ -137,7 +135,6 @@ days:
       - name: Teaching Computational Interaction
         time_start: '16:30'
         time_end: '18:00'
-        
   - name: SAWB 423
     talks:
       - name: Coffee
@@ -164,7 +161,6 @@ days:
       - name: Coffee
         time_start: '16:00'
         time_end: '16:30'
-
 - name: Friday
   abbr: Fr
   date: 2026-06-19
@@ -179,8 +175,7 @@ days:
         time_end: '10:30'
       - name: Coffee
         time_start: '10:30'
-        time_end: '11:00'
-        
+        time_end: '11:00'  
     - name: SAWB 422
       talks:
       - name: Teaching Computational Interaction
