@@ -5,7 +5,7 @@ speakers:
   - AnttiOulasvirta
   - PatrickEbel
   - PhilippWintersberger
-track: Track C
+track: Track B
 tags:
   - workshop
 ---
