@@ -1,5 +1,5 @@
 ---
-name: KajtaHofmann
+name: KatjaHofmann
 first_name: Katja
 last_name: Hofmann
 img: Katja.jpg
