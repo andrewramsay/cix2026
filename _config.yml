@@ -99,7 +99,13 @@ conference:
       # - name: Talks
       #   relative_url: /talks/
       - name: Speakers
-        relative_url: /speakers/
+        menu:
+          - name: Keynotes
+            relative_url: /speakers/#keynotes
+          - name: Courses
+            relative_url: /speakers/#courses
+          - name: Other
+            relative_url: /speakers/#other
       - name: Workshops
         relative_url: /workshops/
       - name: Location
