@@ -11,6 +11,7 @@ talk:  Computational Rationality. Using Reinforcement Learning to Understand and
 links:
   - name: Web-page
     absolute_url: https://users.aalto.fi/~oulasvir/
+speaker_type: Courses
 ---
 *Course Title:* Computational Rationality: Using Reinforcement Learning to Understand and Predict Interactive Behavior
 

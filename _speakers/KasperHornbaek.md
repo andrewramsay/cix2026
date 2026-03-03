@@ -11,6 +11,7 @@ talk: Theory in Human-Computer Interaction (TBC)
 links:
   - name: Web-page
     absolute_url: https://www.kasperhornbaek.dk/
+speaker_type: Keynotes
 ---
 
 *Keynote Title:* Theory in Human-Computer Interaction  (TBC)

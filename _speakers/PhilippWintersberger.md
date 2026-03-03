@@ -11,6 +11,7 @@ talk: CR/RL-based Simulated Users with Unity and ML-Agents
 links:
   - name: Web-page
     absolute_url: https://it-u.at/en/research/professors/philipp-wintersberger/
+speaker_type: Courses
 ---
 
 *Course title:* **CR/RL-based Simulated Users with Unity and ML-Agents**

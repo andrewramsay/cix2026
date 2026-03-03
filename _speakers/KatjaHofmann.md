@@ -11,6 +11,7 @@ talk: Generative AI for Connection and Creativity
 links:
   - name: Web-page
     absolute_url: https://www.microsoft.com/en-us/research/people/kahofman/
+speaker_type: Keynotes
 ---
 
 *Keynote talk title:* **Generative AI for Connection and Creativity**

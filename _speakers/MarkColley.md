@@ -11,6 +11,7 @@ institution: University College London
 links:
   - name: Web-page
     absolute_url: https://profiles.ucl.ac.uk/102233-mark-colley
+speaker_type: Courses
 ---
 
 Dr Mark Colley is a Lecturer at University College London and is part of the UCL Interaction Centre. Before that, he was a Research Associate in the Institute of Media Informatics at Ulm University, Germany with Enrico Rukzio. In 2023, he visited Cornell Tech, working in the Future Automation Research Laboratory led by Wendy Ju. Before starting his PhD, he was a Software Engineer at Airbus Defence and Space. 

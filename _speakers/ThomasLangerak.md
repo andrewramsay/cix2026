@@ -11,6 +11,7 @@ talk: Introduction to Reinforcement Learning in Interactive Systems. Experience 
 links:
   - name: Web-page
     absolute_url: https://thomaslangerak.nl/
+speaker_type: Courses
 ---    
 *Course Title:* Introduction to Reinforcement Learning in Interactive Systems: Experience is All You Need
 
