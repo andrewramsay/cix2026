@@ -1,39 +1,73 @@
 {% include partials/header.html %}
 
-  <h1 class="display-5 mb-4 text-break">
-    {% if page.title %}
-      {{ page.title }}
-    {% else %}
-      {{ site.data.lang[site.conference.lang].speaker.overview | default: "Speakers" }}
-    {% endif %}
-  </h1>
 
   {{ content }}
 
-  <div class="">
   {% assign speakers = site.speakers | sort_natural: 'last_name' %}
-  {% for speaker in speakers %}
-    {% unless speaker.hide %}
-      <div class="d-flex align-items-center py-3">
-        <div class="flex-shrink-0">
-            <a href="{{ speaker.url | prepend: site.baseurl }}">
-                <img src="{{ site.baseurl }}/assets/images/{% if speaker.img %}speaker_thumbs/{{ speaker.img | replace: 'jpg', 'png' }}{% else %}speaker_placeholder.jpg{% endif %}" class="rounded" alt="{{ speaker.first_name }} {{ speaker.last_name }}">
-            </a>
-        </div>
-        <div class="m-3">
-          <h5>
-            <a href="{{ speaker.url | prepend: site.baseurl }}" class="text-decoration-none">
-                {{ speaker.prefix }} {{ speaker.first_name }} {{ speaker.last_name }}
-            </a>
-          </h5>
-          <p class="text-muted mb-0">{{ speaker.position }} <br/> {{ speaker.institution }}<br/><br/>  Talk: <b>{{speaker.talk }}</b></p>
-        </div>
-      </div>
+  {% comment %} 
+  1. creates a set of groups on speaker_type with .name and .items attributes
+  2. get the set of speakers with a defined speaker_type, grouped by type 
+  3. get the set of speakers without any defined speaker_type
+  4. exclude any such speakers set to hidden
+  5. define the ordering based on speakers/index.md's speaker_type_order list
+  {% endcomment %}
+  {% assign speaker_groups = speakers | group_by: 'speaker_type' %}
+  {% assign typed_groups = speaker_groups | where_exp: "g", "g.name != ''" %}
+  {% assign untyped_group = speaker_groups | where_exp: "g", "g.name == ''" | first %}
+  {% assign untyped_visible = untyped_group.items | where_exp: "s", "s.hide != true" %}
+  {% assign ordered_types = page.speaker_type_order %}
+
+  {% comment %} 
+  Generate the type1 | type2 | type3 shortcut bar:
+   - loop over the list of defined groups and output a link (note it converts to lowercase and 
+    replaces spaces with hyphens)
+   - add the "Other" entry if needed
+  {% endcomment %}
+  {% if typed_groups.size > 0 or untyped_visible.size > 0 %}
+  <nav class="mb-4 speaker-type-nav">
+    {% for type_name in ordered_types %}
+      {% assign group = typed_groups | where: "name", type_name | first %}
+      {% assign vis = group.items | where_exp: "s", "s.hide != true" %}
+      {% if vis.size > 0 %}<span><a href="#{{ type_name | downcase | replace: ' ', '-' }}">{{ type_name }}</a></span>{% endif %}
+    {% endfor %}
+    {% if untyped_visible.size > 0 %}<span><a href="#other">Other</a></span>{% endif %}
+  </nav>
+  <style>.speaker-type-nav span + span::before { content: " | "; }</style>
+  {% endif %}
+
+  {% comment %} 
+  Loop through the ordered list of groups, create a header, then populate
+  the speaker-card template for each speaker in the group
+  {% endcomment %}
+  {% for type_name in ordered_types %}
+    {% assign group = typed_groups | where: "name", type_name | first %}
+    {% assign visible_speakers = group.items | where_exp: "s", "s.hide != true" %}
+    {% if visible_speakers.size > 0 %}
+    <h2 id="{{ type_name | downcase | replace: ' ', '-' }}" class="mt-5 mb-3">{{ type_name }}</h2>
+    <div class="px-3 rounded" style="background:#eeeeee">
+    {% for speaker in visible_speakers %}
+      {% include partials/speaker-card.html speaker=speaker %}
       {% unless forloop.last %}
         <hr class="my-0">
       {% endunless %}
-    {% endunless %}
+    {% endfor %}
+    </div>
+    {% endif %}
   {% endfor %}
-</div>
+
+  {% comment %} 
+    Add any speakers without groups assigned
+  {% endcomment %}
+  {% if untyped_visible.size > 0 %}
+    <h2 id="other" class="mt-5 mb-3">Other</h2>
+    <div class="px-3 rounded" style="background:#eeeeee">
+    {% for speaker in untyped_visible %}
+      {% include partials/speaker-card.html speaker=speaker %}
+      {% unless forloop.last %}
+        <hr class="my-0">
+      {% endunless %}
+    {% endfor %}
+    </div>
+  {% endif %}
 
 {% include partials/footer.html %}
