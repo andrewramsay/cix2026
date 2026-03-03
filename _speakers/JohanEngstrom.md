@@ -10,7 +10,7 @@ talk: Active Inference
 links:
   - name: Web-page
     absolute_url: https://www.linkedin.com/in/johan-engstr%C3%B6m-9635261/
-speaker_type: Other
+speaker_type: Workshops
 ---
 
 Dr Johan Engström is a Senior Staff Research Scientist at Waymo.
