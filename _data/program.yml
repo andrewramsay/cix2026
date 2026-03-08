@@ -43,7 +43,7 @@ days:
       - name: Coffee
         time_start: '09:00'
         time_end: '09:30'
-      - name: Theory in HCI (TBC)
+      - name: The theory crisis in human-computer interaction
         time_start: '09:30'
         time_end: '10:30'
       - name: Coffee
