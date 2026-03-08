@@ -2,7 +2,7 @@
 name: KasperHornbaek
 first_name: Kasper
 last_name: Hornbæk
-img: Kasper2.jpg
+img: Kasper.jpg
 # "title" = page title so using prefix instead
 prefix: Professor
 position: Professor
