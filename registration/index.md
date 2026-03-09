@@ -41,7 +41,7 @@ Click [here]({{ site.conference.calendar_file }}) to download an iCal file conta
 
 ## Registration process
 
-Registration is yet to open, but will be done through EventBrite.
+Registration is yet to open, but will be done through EventBrite. Staff and students at the University of Glasgow can pay via an internal transfer, which will be cheaper. Contact us for details. 
 
 ## Pricing
 
