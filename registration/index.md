@@ -45,7 +45,7 @@ Registration is yet to open, but will be done through EventBrite. Staff and stud
 
 ## Pricing
 
-(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches. 20% VAT will be added to all prices. Eventbrite will also add a charge of 6.95%)
+(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches. Eventbrite will also add a charge of ca 6.95%+VAT)
 
 | Registration type | Price |
 | :---: | --- | --- |
