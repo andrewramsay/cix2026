@@ -45,7 +45,7 @@ Registration is yet to open, but will be done through EventBrite.
 
 ## Pricing
 
-(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches.)
+(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches. 20% VAT will be added to all prices. Eventbrite will also add a charge of 6.95%)
 
 | Registration type | Price |
 | :---: | --- | --- |
