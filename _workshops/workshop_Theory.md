@@ -5,7 +5,7 @@ organized_by: Antti Oulasvirta, Thomas Langerak (Aalto U), Philipp Wintersberger
 index: 0
 ---
 
-![](/assets/images/TheoryWSteaser.jpg)
+![](/assets/images/TheoryWSteaser.png)
 
 **Organisers**
  Antti Oulasvirta, Thomas Langerak (Aalto U), Philipp Wintersberger (IT:U), Patrick Ebel (HPI), Michal Miazga (U Leipzig), Danqing Shi (U Cambridge), Helena Frijns (IT:U), and Andrew Howes (Exeter)
