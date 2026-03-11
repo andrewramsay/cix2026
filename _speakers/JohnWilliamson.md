@@ -7,7 +7,7 @@ img: John.png
 prefix: Dr
 position: Senior Lecturer
 institution: University of Glasgow
-talk: Workshop on Active Inference
+talk: Workshop on Active Inference and Computational Interaction
 links:
   - name: Web-page
     absolute_url: https://www.dcs.gla.ac.uk/~jhw/
