@@ -1,8 +1,18 @@
 ---
-name: biomech
-fullname: Biomechanical RL as a Methodological Direction for Computational Interaction?
+name: Biomechanical RL as a Methodological Direction for Computational Interaction
 organized_by: Florian Fischer (U Cambridge), Arthur Fleig (Leipzig U), Patrick Ebel (HPI), Miroslav Bachinski (Associate Professor, U Bergen), Roderick Murray-Smith (U Glasgow), Antti Oulasvirta (Aalto U), and Per Ola Kristensson (U Cambridge)
 index: 1
+speakers:
+  - FlorianFischer
+  - ArthurFleig
+  - PatrickEbel
+  - MiroslavBachinski
+  - RoderickMurraySmith
+  - AnttiOulasvirta
+  - PerOlaKristensson
+track: Track A
+tags:
+  - workshop
 ---
 ![](/assets/images/BiomechWSteaser.png)
 

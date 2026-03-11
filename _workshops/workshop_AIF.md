@@ -1,8 +1,14 @@
 ---
-name: AIF
-fullname: Active Inference and Computational Interaction
+name: Active Inference and Computational Interaction
 organized_by: Roderick Murray-Smith, John H. Williamson (U Glasgow)
 index: 2
+speakers:
+  - RoderickMurraySmith
+  - JohnWilliamson
+track: Track A
+tags:
+  - workshop
+
 ---
 
 ![](/assets/images/AIFWSteaser.jpg)

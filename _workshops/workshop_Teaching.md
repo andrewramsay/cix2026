@@ -1,8 +1,15 @@
 ---
-name: teachingci
-fullname: Teaching Computational Interaction
+name: Teaching Computational Interaction
 organized_by: Antti Oulasvirta, Thomas Langerak (Aalto U), Patrick Ebel (HPI), Philipp Wintersberger (IT:U)
 index: 3
+speakers:
+  - ThomasLangerak
+  - AnttiOulasvirta
+  - PatrickEbel
+  - PhilippWintersberger
+track: Track A
+tags:
+  - workshop
 ---
 ![](/assets/images/TeachingWSteaser.jpg)
 
