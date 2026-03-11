@@ -13,7 +13,7 @@ links:
     absolute_url: https://www.dcs.gla.ac.uk/~rod/
 speaker_type: Workshops
 ---
-*Workshop Title:* Workshop on Biomechanical RL
+*Workshop Title:* Workshop on Active Inference and Computational Interaction
 
 *Biography:* Roderick Murray-Smith is a Professor of Computing Science at the University of Glasgow, leading the Inference, Dynamics and Interaction  research group. He works in the overlap between machine learning, interaction design and control theory, and publishes in ML venues such as NeurIPS, JMLR, ICLR and HCI venues such as CHI, UIST and ToCHI. His main current activity is the 5 year ERC Advanced grant project, Designing Interaction Freedom via Active Inference (DIFAI). The project’s objectives are to integrate Active Inference theory into the human-computer interaction loop, linking human behaviour via sensors and ML/inference embeddings with dynamic mediating mechanisms to create end-to-end mutually adaptive loops between humans and systems. 
 
