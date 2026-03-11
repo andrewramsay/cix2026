@@ -3,7 +3,8 @@
 {% comment %}
 get the collection of talks matching the current speaker's name
 {% endcomment %}
-{% assign speaker_talks = site.talks | where_exp: "t", "t.speakers contains speaker.name" %}
+{%- assign all_program_items = site.talks | concat: site.workshops -%}
+{% assign speaker_talks = all_program_items | where_exp: "t", "t.speakers contains speaker.name" %}
 <div class="d-flex align-items-center py-3">
   <div class="flex-shrink-0">
       <a href="{{ speaker.url | prepend: site.baseurl }}">
