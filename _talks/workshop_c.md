@@ -1,7 +1,7 @@
 ---
 name: Active Inference and Computational Interaction
 speakers:
-  - RoderickMurray-Smith
+  - RoderickMurraySmith
   - JohnWilliamson
 track: Track A
 tags:
