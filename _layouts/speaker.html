@@ -68,8 +68,9 @@
     </ul>
   {% endif %}
 
+  {%- assign all_program_items = site.talks | concat: site.workshops -%}
   {% assign active_speaker = false %}
-  {% for talk in site.talks %}
+  {% for talk in all_program_items %}
     {% for speaker_name in talk.speakers %}
       {% if speaker_name == speaker.name %}
         {% assign active_speaker = true %}
@@ -86,7 +87,7 @@
         {%- include partials/get_day_hash.html -%}
         {%- for r in d.rooms -%}
           {%- for t in r.talks -%}
-            {%- assign talk = site.talks | where: 'name', t.name | first -%}
+            {%- assign talk = all_program_items | where: 'name', t.name | first -%}
 
             {%- for speaker_name in talk.speakers -%}
               {%- if speaker_name == speaker.name -%}
