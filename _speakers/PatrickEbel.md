@@ -5,7 +5,7 @@ last_name: Ebel
 img: Patrick.jpg
 # "title" = page title so using prefix instead
 prefix: Prof. Dr.
-position: Postdoc
+position: Professor
 institution: Hasso Plattner Institute
 talk: Workshop on Biomechanical RL
 links:
