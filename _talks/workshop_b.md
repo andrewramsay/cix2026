@@ -5,7 +5,7 @@ speakers:
   - ArthurFleig
   - PatrickEbel
   - MiroslavBachinski
-  - RoderickMurray-Smith
+  - RoderickMurraySmith
   - AnttiOulasvirta
   - PerOlaKristensson
 track: Track A
