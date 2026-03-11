@@ -1,9 +1,8 @@
-
 ---
 name: RoderickMurraySmith
 first_name: Roderick
-last_name: Murray-Smith
-img: Rod.png
+last_name: 'Murray-Smith'
+img: Rod.jpg
 # "title" = page title so using prefix instead
 prefix: Prof
 position: Professor
