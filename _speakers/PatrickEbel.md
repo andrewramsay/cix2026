@@ -1,0 +1,1 @@
+Patrick Ebel is Assistant Professor for Computational Interaction at Hasso Plattner Institute. His research focuses on data-driven and RL-based simulated users that model human cognition, perception and motor control. These models aim to support the design and evaluation of interactive systems that are better aligned with human goals, abilities, and behavior.
