@@ -10,7 +10,7 @@ institution: University of Leipzig
 talk: Workshop on Biomechanical RL
 links:
   - name: Web-page
-    absolute_url: [https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/](https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/)
+    absolute_url: https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/
 speaker_type: Workshops
 ---
 *Workshop Title:* Workshop on Biomechanical RL
