@@ -10,7 +10,7 @@ institution: University of Cambridge
 talk: Workshop on Biomechanical RL
 links:
   - name: Web-page
-    absolute_url: https://users.aalto.fi/~oulasvir/
+    absolute_url: [https://users.aalto.fi/~oulasvir/](https://www-edc.eng.cam.ac.uk/staff/dr-florian-fischer)
 speaker_type: Workshops
 ---
 *Workshop Title:* Workshop on Biomechanical RL
