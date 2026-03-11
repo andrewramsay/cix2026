@@ -1,7 +1,7 @@
 ---
 name: Biomechanical Reinforcement Learning
 speakers:
-  - Florian Fischer
+  - FlorianFischer
 track: Track B
 ---
 
