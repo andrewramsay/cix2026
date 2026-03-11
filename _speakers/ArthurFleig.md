@@ -2,7 +2,7 @@
 name: ArthurFleig
 first_name: Arthur
 last_name: Fleig
-img: Arthur.jpg
+img: Arthur.png
 # "title" = page title so using prefix instead
 prefix: Dr
 position: Junior Research group leader
@@ -10,7 +10,7 @@ institution: University of Leipzig
 talk: Workshop on Biomechanical RL
 links:
   - name: Web-page
-    absolute_url: [https://users.aalto.fi/~oulasvir/](https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/)
+    absolute_url: [https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/](https://scads.ai/event/summer-schools/summer-school-2024/arthur-fleig/)
 speaker_type: Workshops
 ---
 *Workshop Title:* Workshop on Biomechanical RL
