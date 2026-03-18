@@ -5,8 +5,7 @@ permalink: /cfp/
 ---
 **Call for student applications for the Summer School**
 
-*The deadline for student applications is March 14, 2026, anywhere on Earth.*
-(However, in the case of oversubscription we will prioritise early applications, so don't delay in sending your application.)
+The initial deadline of 14th March has passed, but there are still some places left which will be allocated on a first-come, first-served process from now on, so do not delay submitting your application!
 
 The student submission form will ask you to submit a CV, and a short research statement (no longer than 1 page) describing your research interests and a brief description of how attending this summer school will help you in your research.  Note that submitting an application is a binding registration, and upon acceptance you will need to pay the registration fee.
 
