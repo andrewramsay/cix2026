@@ -148,20 +148,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Delayed opening of registration
-      color: warning
-      main_only: false
-      text: |
-        Registration will not open on February 1st as previously advertised, due to an issue with payment processing.
-
-        ---
-
-        As soon as this problem has been resolved the registration link will become available. Please check back soon!
-    - title: Student applications are open
+    - title: Registration is now open!
       color: success
       main_only: false
       text: |
-        See <a href="https://s3cix.computationalinteraction.org/registration/">Registration</a> for details
+        Please check the <a href="/registration/">Registration</a> page
 
   # Live indications
   live:

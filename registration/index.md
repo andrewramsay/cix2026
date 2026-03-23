@@ -41,11 +41,13 @@ Click [here]({{ site.conference.calendar_file }}) to download an iCal file conta
 
 ## Registration process
 
-Registration is yet to open, but will be done through EventBrite. Staff and students at the University of Glasgow can pay via an internal transfer, which will be cheaper. Contact us for details. 
+Registration is now open. If your attendance has been confirmed/accepted, you can purchase your ticket through [this Eventbrite link](https://www.eventbrite.com/e/1977867581178?aff=oddtdtcreator). 
+
+**NOTE**: Staff and students at the University of Glasgow can pay via an internal transfer, which will be cheaper. Contact us for details. 
 
 ## Pricing
 
-(prices still subject to change. Accomodation should be booked separately. We anticipate being able to supply lunches. Eventbrite will also add a charge of ca 6.95%+VAT)
+Accomodation should be booked separately. We anticipate being able to supply lunches.
 
 | Registration type | Price |
 | :---: | --- | --- |
