@@ -6,6 +6,7 @@ speakers:
   -AnttiOulasvirta
   -ThomasLangerak
   -PhilippWintersberger
+  -PatrickEbel
   -DanqingShi
 track: Track A
 tags:
