@@ -1,0 +1,19 @@
+---
+name: DanqingShi
+first_name: Danqing
+last_name: Shi
+img: Danqing.jpg
+# "title" = page title so using prefix instead
+prefix: Dr.
+position: Postdoctoral researcher
+institution: Cambridge University, UK
+talk: 
+links:
+  - name: Web-page
+    absolute_url: https://sdq.github.io/
+speaker_type: Workshops
+---    
+*Biography:* Dr. Danqing Shi is a Postdoctoral Research Associate at the Machine Learning Group at University of Cambridge. He will join Lund University as an Assistant Professor in fall 2026. He received his PhD from Tongji University, worked as a Postdoc at FCAI Aalto and a visiting scholar at ETH Zurich. His research interests include human-AI interaction, human-computer interaction, and visualization. He builds computational models to simulate human behavior and interactive systems to steer AI behavior. 
+
+
+
