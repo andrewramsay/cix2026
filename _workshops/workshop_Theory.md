@@ -6,6 +6,7 @@ speakers:
   -AnttiOulasvirta
   -ThomasLangerak
   -PhilippWintersberger
+  -DanqingShi
 track: Track A
 tags:
   - workshop
