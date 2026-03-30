@@ -8,6 +8,7 @@ speakers:
   -PhilippWintersberger
   -PatrickEbel
   -DanqingShi
+  - HelenaAnnaFrijns
 track: Track A
 tags:
   - workshop
