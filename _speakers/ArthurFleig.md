@@ -2,7 +2,7 @@
 name: ArthurFleig
 first_name: Arthur
 last_name: Fleig
-img: Arthur.png
+img: Arthur.jpg
 # "title" = page title so using prefix instead
 prefix: Dr
 position: Junior Research group leader
