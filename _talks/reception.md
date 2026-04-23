@@ -1,5 +1,5 @@
 ---
-name: Reception at the Hunterian Museum
+name: Reception
 speakers:
   - none
 track: Track Social
