@@ -17,4 +17,4 @@ Please use promotion code **S3CIX25** so that you are allocated the right price 
 
 Accommodation bookings must be paid for online at the time of reservation, and this process is completely separate from the Symposium/Summer School Registration process. 
 
-If the booking process is not completed with payment (by card) then the room is not reserved. Please book and pay for your accomodation before the **15th of April 2026**.
+If the booking process is not completed with payment (by card) then the room is not reserved. Please book and pay for your accomodation as soon as you can, to guarantee one of the limited number of rooms, and in any case before the **end of May 2026**.
