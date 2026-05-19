@@ -5,6 +5,9 @@ layout: page
 ---
 ## Student applications
 
+We have reached capacity, and registration is now closed.
+
+<!--
 For students wishing to attend the summer school, you can now submit your applications by email.  (Registration comes later, once you are accepted, so you are not affected by the delay mention above in opening paid registration.)
 
 Please send the following details to **cix2026@glasgow.ac.uk**:
@@ -14,6 +17,7 @@ Please send the following details to **cix2026@glasgow.ac.uk**:
  * Institution/organization
  * A max ~1 page research statement covering your research interests and why attending the summer school would help your research
  * A copy of your CV 
+-->
 
 ## Key dates
 
