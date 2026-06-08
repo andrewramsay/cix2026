@@ -1,7 +1,7 @@
 ---
-name: Talk Session 2
+name: User-driven Mixed Reality Adaptation 
 speakers:
-  - TBA TBA
+  - AnnaFeit
 track: Track A
 ---
-Talk session
+
