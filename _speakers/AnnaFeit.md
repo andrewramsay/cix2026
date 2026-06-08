@@ -2,7 +2,7 @@
 name: AnnaFeit
 first_name: Anna
 last_name: Feit
-img: Feit_Anna.Maria5_-1536x1536.jpg
+img: Anna.jpg
 # "title" = page title so using prefix instead
 prefix: Professor
 position: Professor 
