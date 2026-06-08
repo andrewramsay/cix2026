@@ -2,7 +2,7 @@
 name: XiaojunBi
 first_name: Xiaojun  
 last_name: Bi
-img: xiojun-240-272.png
+img: Xiaojun.png
 # "title" = page title so using prefix instead
 prefix: Professor
 position: Professor 
@@ -10,7 +10,7 @@ institution: Professor in Department of Computer Science, Stony Brook University
 talk:  Generative and Language Models for Mobile Text Interaction
 links:
   - name: Web-page
-    absolute_url: [https://www3.cs.stonybrook.edu/~xiaojun/](https://www3.cs.stonybrook.edu/~xiaojun/)
+    absolute_url: https://www3.cs.stonybrook.edu/~xiaojun/
 speaker_type: Courses
 ---
 I am Professor in Computer Science at Saarland University, where I lead the Computational Interaction Group. My research explores how computational methods can help us better understand and optimize the way people interact with digital systems. By combining behavioral data, predictive modeling, and interface design, my work aims to make interactive systems more adaptive, efficient, and human-centered.
