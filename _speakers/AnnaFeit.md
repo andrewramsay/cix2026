@@ -10,7 +10,7 @@ institution: Professor in Computer Science at Saarland University
 talk: User-driven Mixed Reality Adaptation
 links:
   - name: Web-page
-    absolute_url: [https://cix.cs.uni-saarland.de/?page_id=679](https://cix.cs.uni-saarland.de/?page_id=679)
+    absolute_url: https://cix.cs.uni-saarland.de/?page_id=679
 speaker_type: Courses
 ---
 I am Professor in Computer Science at Saarland University, where I lead the Computational Interaction Group. My research explores how computational methods can help us better understand and optimize the way people interact with digital systems. By combining behavioral data, predictive modeling, and interface design, my work aims to make interactive systems more adaptive, efficient, and human-centered.
