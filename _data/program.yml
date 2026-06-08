@@ -126,8 +126,11 @@ days:
       - name: Lunch
         time_start: '12:30'
         time_end: '13:30'
-      - name: Active Inference and Computational Interaction
+      - name: Computational human driving behavior reference models for ADS evaluation based on (en)active inference
         time_start: '13:30'
+        time_end: '14:15'
+      - name: Active Inference and Computational Interaction
+        time_start: '14:15'
         time_end: '15:30'
       - name: User-driven Mixed Reality Adaptation 
         time_start: '15:30'
