@@ -40,7 +40,7 @@ days:
     talks:
       - name: AI Engineering as Design Engineering
         time_start: '13:00'
-        time_end: '16:00'
+        time_end: '15:00'
         
 - name: Wednesday
   abbr: We
