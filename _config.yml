@@ -106,6 +106,8 @@ conference:
             relative_url: /speakers/#courses
           - name: Workshops
             relative_url: /speakers/#workshops
+          - name: Talks
+            relative_url: /speakers/#talks
       - name: Workshops
         relative_url: /workshops/
       - name: Location
@@ -147,12 +149,12 @@ conference:
         icon: clipboard-user
 
   # Information boxes
-  info_bars:
-    - title: Registration is now open!
-      color: success
-      main_only: false
-      text: |
-        Please check the <a href="/registration/">Registration</a> page
+  # info_bars:
+  #   - title: Registration is now open!
+  #     color: success
+  #     main_only: false
+  #     text: |
+  #       Please check the <a href="/registration/">Registration</a> page
 
   # Live indications
   live:
