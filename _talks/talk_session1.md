@@ -1,7 +1,7 @@
 ---
-name: Talk Session 1
+name: Generative and Language Models for Mobile Text Interaction
 speakers:
-  - TBA TBA
+  - XiaojunBi
 track: Track All
 ---
 Talk session
