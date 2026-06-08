@@ -4,5 +4,6 @@ speaker_type_order:
  - Keynotes
  - Courses
  - Workshops
+ - Talks
  - Other
 ---
