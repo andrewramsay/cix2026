@@ -112,8 +112,10 @@ conference:
         relative_url: /workshops/
       - name: Location
         relative_url: /location/
-      - name: Registration
-        relative_url: /registration/
+      - name: Materials
+        relative_url: /materials/
+      # - name: Registration
+      #   relative_url: /registration/
       - name: Accommodation
         relative_url: /accommodation/
       - name: Editions
