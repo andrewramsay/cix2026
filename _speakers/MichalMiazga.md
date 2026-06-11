@@ -1,8 +1,7 @@
 name: Michal
-first_name: Michał Patryk ,
+first_name: Michał Patryk
 last_name: Miazga
 img: Michal.png
-# "title" = page title so using prefix instead
 prefix: Mr
 position: Research Fellow
 institution: Data Science Center ScaDS.AI Leipzig
