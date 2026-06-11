@@ -132,7 +132,7 @@ days:
       - name: Active Inference and Computational Interaction
         time_start: '14:15'
         time_end: '15:30'
-      - name: User-driven Mixed Reality Adaptation 
+      - name: Intent-driven mixed reality adaptation
         time_start: '15:30'
         time_end: '16:00'
       - name: Coffee
