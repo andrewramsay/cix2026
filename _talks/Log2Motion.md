@@ -2,7 +2,7 @@
 name: Log2Motion Biomechanical Motion Synthesis from Touch Logs
 speakers:
   - PatrickEbel
-  -Michał Patryk Miazga
+  - MichalPatrykMiazga
 track: Track All
 ---
 *Abstract*
