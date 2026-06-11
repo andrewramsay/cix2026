@@ -13,3 +13,25 @@
 .regtablestyle th {
   background-color: #f0f0f0;  
 }
+
+// attempting to improve the layout for the program page
+.overflow-y-hidden .table tbody {
+  // reduces the height of the table rows
+  th, td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  // hide all the hlines that are not aligned with an hour boundary
+  tr:not(.program-step-hour) > * {
+    border-top-width: 0;
+    border-bottom-width: 0;
+  }
+  // this prevents rows from ending up with zero height, which seemed to 
+  // cause misalignments in timing (e.g. talks on parallel tracks starting at different
+  // times could end up vertically aligned)
+  tr {
+    height: 6px;
+  }
+}
+
+
