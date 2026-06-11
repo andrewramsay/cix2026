@@ -1,5 +1,5 @@
 ---
-name: Michal
+name: MichalMiazga
 first_name: Michał Patryk
 last_name: Miazga
 img: Michal.png
@@ -10,5 +10,5 @@ talk: Log2Motion Biomechanical Motion Synthesis from Touch Logs
 links:
   - name: Web-page
     absolute_url: https://www.uni-leipzig.de/en/profile/mitarbeiter/michal-miazga
-speaker_type: Courses
+speaker_type: Talks
 ---
