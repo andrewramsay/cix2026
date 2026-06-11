@@ -1,3 +1,4 @@
+---
 name: Michal
 first_name: Michał Patryk
 last_name: Miazga
@@ -10,3 +11,4 @@ links:
   - name: Web-page
     absolute_url: https://www.uni-leipzig.de/en/profile/mitarbeiter/michal-miazga
 speaker_type: Talk
+---
