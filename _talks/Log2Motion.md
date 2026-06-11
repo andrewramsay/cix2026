@@ -1,5 +1,5 @@
 ---
-name: Log2Motion: Biomechanical Motion Synthesis from Touch Logs
+name: Log2Motion Biomechanical Motion Synthesis from Touch Logs
 speakers:
   - PatrickEbel
   -Michał Patryk Miazga
