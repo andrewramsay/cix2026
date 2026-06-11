@@ -11,7 +11,7 @@ talk:  Generative and Language Models for Mobile Text Interaction
 links:
   - name: Web-page
     absolute_url: https://www3.cs.stonybrook.edu/~xiaojun/
-speaker_type: Courses
+speaker_type: Talks
 ---
 I am Professor in Computer Science at Saarland University, where I lead the Computational Interaction Group. My research explores how computational methods can help us better understand and optimize the way people interact with digital systems. By combining behavioral data, predictive modeling, and interface design, my work aims to make interactive systems more adaptive, efficient, and human-centered.
 
