@@ -1,5 +1,5 @@
 ---
-name: Intent-driven mixed reality adaptation 
+name: Intent-driven mixed reality adaptation
 speakers:
   - AnnaFeit
 track: Track A
