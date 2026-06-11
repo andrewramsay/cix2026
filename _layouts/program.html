@@ -34,8 +34,6 @@
       <table class="table mb-0 mx-auto">
         <thead>
           <tr>
-            <th scope="col" class="col-title text-right">#<span class="invisible">I0</span></th>
-            <th class="col-space p-0" scope="col"></th>
             {%- assign nbr_rooms = d.rooms | size -%}
             {%- for r in d.rooms -%}
               {%- assign room = site.rooms | where: 'name', r.name | first %}
@@ -92,20 +90,7 @@
               {%- assign current_time = current_hour | append: ':' | append: current_min -%}
             {%- endif -%}
 
-            <tr>
-
-              {%- if current_min == 0 -%}
-                <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
-                  {{- current_time -}}
-                </th>
-              {%- elsif site.conference.program.show_alltimes -%}
-                <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
-                  :{{ current_min }}
-                </th>
-              {%- else -%}
-                <th scope="row" class="col-title" style="z-index: {{ z-index-max }}"></th>
-              {%- endif %}
-              <td class="col-space p-0"></td>
+            <tr{% if current_min == 0 %} class="program-step-hour"{% endif %}>
 
               {%- for r in d.rooms -%}
                 {%- assign room = site.rooms | where: 'name', r.name | first -%}
