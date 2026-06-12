@@ -11,7 +11,7 @@ days:
       - name: Interaction in movement. Computational modelling of human road user behaviour
         time_start: '09:30'
         time_end: '10:30'
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '10:30'
         time_end: '11:00'
       - name: 'Log2Motion: Biomechanical Motion Synthesis from Touch Logs'
@@ -51,7 +51,7 @@ days:
   rooms: 
   - name: SAWB 422/423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: The theory crisis in human-computer interaction
@@ -84,7 +84,7 @@ days:
         
   - name: SAWB 423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Coffee
@@ -114,7 +114,7 @@ days:
   rooms: 
   - name: SAWB 422/423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Generative AI for Connection and Creativity
@@ -150,7 +150,7 @@ days:
         
   - name: SAWB 423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Coffee
@@ -181,7 +181,7 @@ days:
   rooms: 
   - name: SAWB 422/423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Machine Learning for Human–Robot Interaction. Vision-Language Grounding, Personalization, and Failure Awareness
@@ -208,7 +208,7 @@ days:
         
   - name: SAWB 423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Coffee
@@ -236,7 +236,7 @@ days:
   rooms:   
   - name: SAWB 423
     talks:
-      - name: Coffee
+      - name: Coffee and Breakfast
         time_start: '09:00'
         time_end: '09:30'
       - name: Doctoral Consortium
