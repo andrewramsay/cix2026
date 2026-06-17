@@ -125,12 +125,9 @@ days:
         time_end: '13:30'
       - name: Computational human driving behavior reference models for ADS evaluation based on (en)active inference
         time_start: '13:30'
-        time_end: '14:20'
+        time_end: '14:30'
       - name: Active Inference and Computational Interaction
-        time_start: '14:20'
-        time_end: '15:30'
-      - name: Intent-driven mixed reality adaptation
-        time_start: '15:30'
+        time_start: '14:30'
         time_end: '16:00'
       - name: Coffee
         time_start: '16:00'
