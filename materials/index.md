@@ -5,7 +5,7 @@ title: Materials
 
 ## Course material
 
-You can find public course material for S3³CIX in [this GitHub repository](https://github.com/idi-gla/s3cix).
+You can find public course material for S³CIX in [this GitHub repository](https://github.com/idi-gla/s3cix).
 
 ## S³CIX Discord server
 
