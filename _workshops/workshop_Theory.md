@@ -35,5 +35,10 @@ The workshop intends to release a white paper outlining a roadmap toward better 
 2. roadmapping from where we are now toward that goal.
 
 The white paper will be published and later developed  further in a Dagstuhl seminar in October dedicated to computational rationality. The workshop 
-will also study the possibility of making a special issue proposal for TOCHI with the working title 
+will also study the* possibility of making a special issue proposal for TOCHI with the working title 
 “Special Issue on Theories of Human-AI interaction”. 
+
+
+[Slides for *World Models for Human Behaviour*, Thomas Langerak](https://github.com/idi-gla/s3cix/blob/main/workshops/theory_in_computational_interaction/Position%20Talks/WorldModelsforUserModels.pdf)
+[Slides for *Theory of Active Inference in HCI* talk by Roderick Murray-Smith](https://github.com/idi-gla/s3cix/blob/main/workshops/theory_in_computational_interaction/Position%20Talks/TheoryActiveInferenceRodM-S.pdf)
+
