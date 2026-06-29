@@ -13,6 +13,7 @@ tags:
 
 ![](/assets/images/AIFWSteaser.jpg)
 
+
 **Organisers**
 Roderick Murray-Smith, John H. Williamson (U Glasgow)
 
@@ -20,4 +21,7 @@ Roderick Murray-Smith, John H. Williamson (U Glasgow)
 Active Inference is a closed-loop computational theoretical basis for understanding behaviour, based on agents with internal probabilistic generative models that encode their beliefs about how hidden states in their environment cause their sensations. Active Inference offers a new basis for a theory of interaction in HCI, tools for design of modern, complex sensor-based systems, and integration of artificial intelligence technologies, enabling it to cope with diversity in human users and contexts. This workshop will explore how Active Inference could be applied to model the human–computer interaction loop.
 
 
-[Slides for John Williamson's talk *Active Inference and HCI*](https://github.com/idi-gla/s3cix/blob/main/workshops/active_inference/S3CIX%20Active%20Inference_v4.pdf)
+[Slides for *Active Inference and HCI*](https://github.com/idi-gla/s3cix/blob/main/workshops/active_inference/S3CIX%20Active%20Inference_v4.pdf), John Williamson
+[Slides for *Evaluation 
+based on (en)active inference*](https://github.com/idi-gla/s3cix/blob/main/workshops/active_inference/(En)active%20inference%20Engstrom%20Glasgow.pdf), 
+Johan Engström, Waymo
